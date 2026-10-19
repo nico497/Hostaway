@@ -1,0 +1,1527 @@
+{
+ "meta": {
+  "title": "Bottom-of-funnel content tracker",
+  "niche": "Vacation rental and short-term rental property management software (channel manager, PMS, direct booking)",
+  "you": "Hostaway",
+  "generated": "2026-10-19T08:30:15+00:00",
+  "state_updated": "2026-10-19T08:25:30+00:00",
+  "repo": "nico497/Hostaway"
+ },
+ "types": [
+  [
+   "vs_you",
+   "Us vs. them"
+  ],
+  [
+   "alt",
+   "Alternatives"
+  ],
+  [
+   "switch",
+   "Switching and migration"
+  ],
+  [
+   "pricing",
+   "Rival pricing breakdowns"
+  ],
+  [
+   "vs_rivals",
+   "Rival vs. rival"
+  ],
+  [
+   "best",
+   "Best-of and roundups"
+  ],
+  [
+   "case",
+   "Case and customer stories"
+  ]
+ ],
+ "sites": [
+  {
+   "name": "Hostaway",
+   "tracked": 1596,
+   "considered": 1022,
+   "own_pricing": "https://www.hostaway.com/pricing/",
+   "hubs": [
+    "https://www.hostaway.com/case-studies/",
+    "https://www.hostaway.com/vacation-rental-guide/rental-arbitrage/alternatives/"
+   ]
+  },
+  {
+   "name": "Guesty",
+   "tracked": 0,
+   "considered": 0,
+   "own_pricing": null,
+   "hubs": []
+  },
+  {
+   "name": "Hospitable",
+   "tracked": 861,
+   "considered": 861,
+   "own_pricing": "https://hospitable.com/pricing",
+   "hubs": [
+    "https://hospitable.com/compare"
+   ]
+  },
+  {
+   "name": "OwnerRez",
+   "tracked": 7793,
+   "considered": 1149,
+   "own_pricing": "https://www.ownerrez.com/pricing",
+   "hubs": [
+    "https://www.ownerrez.com/blog/reviews"
+   ]
+  },
+  {
+   "name": "Lodgify",
+   "tracked": 450,
+   "considered": 299,
+   "own_pricing": "https://www.lodgify.com/pricing/",
+   "hubs": [
+    "https://www.lodgify.com/el/reviews/",
+    "https://www.lodgify.com/reviews/",
+    "https://www.lodgify.com/encyclopedia/reviews/"
+   ]
+  },
+  {
+   "name": "Track",
+   "tracked": 0,
+   "considered": 0,
+   "own_pricing": null,
+   "hubs": []
+  },
+  {
+   "name": "Uplisting",
+   "tracked": 415,
+   "considered": 411,
+   "own_pricing": "https://www.uplisting.io/pricing",
+   "hubs": [
+    "https://www.uplisting.io/customers"
+   ]
+  }
+ ],
+ "vendors": [
+  "Guesty",
+  "Hospitable",
+  "OwnerRez",
+  "Lodgify",
+  "Track",
+  "Uplisting",
+  "Hostaway",
+  "Smoobu",
+  "iGMS",
+  "Your Porter App",
+  "Hostfully",
+  "Tokeet",
+  "Streamline",
+  "Escapia",
+  "Avantio",
+  "Rentals United",
+  "BookingSync",
+  "Beds24"
+ ],
+ "excluded": {
+  "webinars, glossary, events and category pages": 336,
+  "templated pages": 7037
+ },
+ "pages": [
+  {
+   "site": "Hostaway",
+   "url": "https://www.hostaway.com/blog/guesty-alternatives/",
+   "path": "/blog/guesty-alternatives",
+   "type": "alt",
+   "targets": [
+    "Guesty"
+   ]
+  },
+  {
+   "site": "Hostaway",
+   "url": "https://www.hostaway.com/case-studies/albany-global-property/",
+   "path": "/case-studies/albany-global-property",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hostaway",
+   "url": "https://www.hostaway.com/case-studies/away-by-the-sea/",
+   "path": "/case-studies/away-by-the-sea",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hostaway",
+   "url": "https://www.hostaway.com/case-studies/bocobay/",
+   "path": "/case-studies/bocobay",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hostaway",
+   "url": "https://www.hostaway.com/case-studies/brathay-cottages/",
+   "path": "/case-studies/brathay-cottages",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hostaway",
+   "url": "https://www.hostaway.com/case-studies/canstay/",
+   "path": "/case-studies/canstay",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hostaway",
+   "url": "https://www.hostaway.com/case-studies/capital-jetset/",
+   "path": "/case-studies/capital-jetset",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hostaway",
+   "url": "https://www.hostaway.com/case-studies/cmhbnb/",
+   "path": "/case-studies/cmhbnb",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hostaway",
+   "url": "https://www.hostaway.com/case-studies/conciergerie-les-grandes-maisons/",
+   "path": "/case-studies/conciergerie-les-grandes-maisons",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hostaway",
+   "url": "https://www.hostaway.com/case-studies/don-martin-realty-vacation-rentals/",
+   "path": "/case-studies/don-martin-realty-vacation-rentals",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hostaway",
+   "url": "https://www.hostaway.com/case-studies/flex-living/",
+   "path": "/case-studies/flex-living",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hostaway",
+   "url": "https://www.hostaway.com/case-studies/flohom/",
+   "path": "/case-studies/flohom",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hostaway",
+   "url": "https://www.hostaway.com/case-studies/haven-vacation-rentals/",
+   "path": "/case-studies/haven-vacation-rentals",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hostaway",
+   "url": "https://www.hostaway.com/case-studies/heartwood/",
+   "path": "/case-studies/heartwood",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hostaway",
+   "url": "https://www.hostaway.com/case-studies/hiphipstay/",
+   "path": "/case-studies/hiphipstay",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hostaway",
+   "url": "https://www.hostaway.com/case-studies/host-services-group/",
+   "path": "/case-studies/host-services-group",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hostaway",
+   "url": "https://www.hostaway.com/case-studies/ihostme/",
+   "path": "/case-studies/ihostme",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hostaway",
+   "url": "https://www.hostaway.com/case-studies/indigo-property-services/",
+   "path": "/case-studies/indigo-property-services",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hostaway",
+   "url": "https://www.hostaway.com/case-studies/la-vie-maison/",
+   "path": "/case-studies/la-vie-maison",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hostaway",
+   "url": "https://www.hostaway.com/case-studies/leisr-stays/",
+   "path": "/case-studies/leisr-stays",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hostaway",
+   "url": "https://www.hostaway.com/case-studies/liftylife/",
+   "path": "/case-studies/liftylife",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hostaway",
+   "url": "https://www.hostaway.com/case-studies/manasteos/",
+   "path": "/case-studies/manasteos",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hostaway",
+   "url": "https://www.hostaway.com/case-studies/midtown-stays/",
+   "path": "/case-studies/midtown-stays",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hostaway",
+   "url": "https://www.hostaway.com/case-studies/mikes-urban-stays/",
+   "path": "/case-studies/mikes-urban-stays",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hostaway",
+   "url": "https://www.hostaway.com/case-studies/modern-stay/",
+   "path": "/case-studies/modern-stay",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hostaway",
+   "url": "https://www.hostaway.com/case-studies/momentum-cabo-properties/",
+   "path": "/case-studies/momentum-cabo-properties",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hostaway",
+   "url": "https://www.hostaway.com/case-studies/rather-be-properties/",
+   "path": "/case-studies/rather-be-properties",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hostaway",
+   "url": "https://www.hostaway.com/case-studies/rent-live-play/",
+   "path": "/case-studies/rent-live-play",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hostaway",
+   "url": "https://www.hostaway.com/case-studies/rentitup-housing-experiences/",
+   "path": "/case-studies/rentitup-housing-experiences",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hostaway",
+   "url": "https://www.hostaway.com/case-studies/saltydog-vacations/",
+   "path": "/case-studies/saltydog-vacations",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hostaway",
+   "url": "https://www.hostaway.com/case-studies/sandstays/",
+   "path": "/case-studies/sandstays",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hostaway",
+   "url": "https://www.hostaway.com/case-studies/serendipity-anna-maria/",
+   "path": "/case-studies/serendipity-anna-maria",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hostaway",
+   "url": "https://www.hostaway.com/case-studies/shenandoah-yurt/",
+   "path": "/case-studies/shenandoah-yurt",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hostaway",
+   "url": "https://www.hostaway.com/case-studies/sky-share-management/",
+   "path": "/case-studies/sky-share-management",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hostaway",
+   "url": "https://www.hostaway.com/case-studies/stay-with-darby-at-century-21-kootenay-homes/",
+   "path": "/case-studies/stay-with-darby-at-century-21-kootenay-homes",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hostaway",
+   "url": "https://www.hostaway.com/case-studies/superhost/",
+   "path": "/case-studies/superhost",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hostaway",
+   "url": "https://www.hostaway.com/case-studies/the-flex/",
+   "path": "/case-studies/the-flex",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hostaway",
+   "url": "https://www.hostaway.com/case-studies/triad-vacation-rentals/",
+   "path": "/case-studies/triad-vacation-rentals",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hostaway",
+   "url": "https://www.hostaway.com/case-studies/vacationer-dubai/",
+   "path": "/case-studies/vacationer-dubai",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hostaway",
+   "url": "https://www.hostaway.com/case-studies/welcomehost/",
+   "path": "/case-studies/welcomehost",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hostaway",
+   "url": "https://www.hostaway.com/case-studies/youpartments/",
+   "path": "/case-studies/youpartments",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hostaway",
+   "url": "https://www.hostaway.com/blog/guesty-vs-lodgify/",
+   "path": "/blog/guesty-vs-lodgify",
+   "type": "vs_rivals",
+   "targets": [
+    "Guesty",
+    "Lodgify"
+   ]
+  },
+  {
+   "site": "Hostaway",
+   "url": "https://www.hostaway.com/blog/hospitable-vs-guesty/",
+   "path": "/blog/hospitable-vs-guesty",
+   "type": "vs_rivals",
+   "targets": [
+    "Guesty",
+    "Hospitable"
+   ]
+  },
+  {
+   "site": "Hostaway",
+   "url": "https://www.hostaway.com/blog/guesty-vs-hospitable-vs-hostaway-complete-property-management-software-comparison/",
+   "path": "/blog/guesty-vs-hospitable-vs-hostaway-complete-property-management-software-comparison",
+   "type": "vs_you",
+   "targets": [
+    "Guesty",
+    "Hospitable"
+   ]
+  },
+  {
+   "site": "Hostaway",
+   "url": "https://www.hostaway.com/blog/hostaway-vs-hospitable-vs-streamline/",
+   "path": "/blog/hostaway-vs-hospitable-vs-streamline",
+   "type": "vs_you",
+   "targets": [
+    "Hospitable"
+   ]
+  },
+  {
+   "site": "Hostaway",
+   "url": "https://www.hostaway.com/blog/hostaway-vs-lodgify-vs-guesty/",
+   "path": "/blog/hostaway-vs-lodgify-vs-guesty",
+   "type": "vs_you",
+   "targets": [
+    "Guesty",
+    "Lodgify"
+   ]
+  },
+  {
+   "site": "Hostaway",
+   "url": "https://www.hostaway.com/blog/hostaway-vs-smoobu-vs-avantio/",
+   "path": "/blog/hostaway-vs-smoobu-vs-avantio",
+   "type": "vs_you",
+   "targets": [
+    "Smoobu",
+    "Avantio"
+   ]
+  },
+  {
+   "site": "Hostaway",
+   "url": "https://www.hostaway.com/compare/hostaway-vs-guesty/",
+   "path": "/compare/hostaway-vs-guesty",
+   "type": "vs_you",
+   "targets": [
+    "Guesty"
+   ]
+  },
+  {
+   "site": "Hospitable",
+   "url": "https://hospitable.com/success-stories/brian-seelos-case-study",
+   "path": "/success-stories/brian-seelos-case-study",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hospitable",
+   "url": "https://hospitable.com/success-stories/case-arete-stay",
+   "path": "/success-stories/case-arete-stay",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hospitable",
+   "url": "https://hospitable.com/success-stories/case-artifact-hospitality",
+   "path": "/success-stories/case-artifact-hospitality",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hospitable",
+   "url": "https://hospitable.com/success-stories/case-beachbox-direct",
+   "path": "/success-stories/case-beachbox-direct",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hospitable",
+   "url": "https://hospitable.com/success-stories/case-bel-air-of-big-bear",
+   "path": "/success-stories/case-bel-air-of-big-bear",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hospitable",
+   "url": "https://hospitable.com/success-stories/case-bk-stays",
+   "path": "/success-stories/case-bk-stays",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hospitable",
+   "url": "https://hospitable.com/success-stories/case-bnb-consulting",
+   "path": "/success-stories/case-bnb-consulting",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hospitable",
+   "url": "https://hospitable.com/success-stories/case-boost-rentals",
+   "path": "/success-stories/case-boost-rentals",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hospitable",
+   "url": "https://hospitable.com/success-stories/case-branson-lakes-lodging",
+   "path": "/success-stories/case-branson-lakes-lodging",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hospitable",
+   "url": "https://hospitable.com/success-stories/case-ekabo-home",
+   "path": "/success-stories/case-ekabo-home",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hospitable",
+   "url": "https://hospitable.com/success-stories/case-ekabo-homes",
+   "path": "/success-stories/case-ekabo-homes",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hospitable",
+   "url": "https://hospitable.com/success-stories/case-elena-saradidis",
+   "path": "/success-stories/case-elena-saradidis",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hospitable",
+   "url": "https://hospitable.com/success-stories/case-forest-moon-chalet",
+   "path": "/success-stories/case-forest-moon-chalet",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hospitable",
+   "url": "https://hospitable.com/success-stories/case-glant",
+   "path": "/success-stories/case-glant",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hospitable",
+   "url": "https://hospitable.com/success-stories/case-hospy-homes",
+   "path": "/success-stories/case-hospy-homes",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hospitable",
+   "url": "https://hospitable.com/success-stories/case-kareem-sargeant",
+   "path": "/success-stories/case-kareem-sargeant",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hospitable",
+   "url": "https://hospitable.com/success-stories/case-mike-timoney",
+   "path": "/success-stories/case-mike-timoney",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hospitable",
+   "url": "https://hospitable.com/success-stories/case-mostess",
+   "path": "/success-stories/case-mostess",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hospitable",
+   "url": "https://hospitable.com/success-stories/case-nicole-bansal",
+   "path": "/success-stories/case-nicole-bansal",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hospitable",
+   "url": "https://hospitable.com/success-stories/case-oc-adventure-homes",
+   "path": "/success-stories/case-oc-adventure-homes",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hospitable",
+   "url": "https://hospitable.com/success-stories/case-pod-property-management",
+   "path": "/success-stories/case-pod-property-management",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hospitable",
+   "url": "https://hospitable.com/success-stories/case-ready-set-stay",
+   "path": "/success-stories/case-ready-set-stay",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hospitable",
+   "url": "https://hospitable.com/success-stories/case-ridge-stays",
+   "path": "/success-stories/case-ridge-stays",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hospitable",
+   "url": "https://hospitable.com/success-stories/case-shasta-view-lodge",
+   "path": "/success-stories/case-shasta-view-lodge",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hospitable",
+   "url": "https://hospitable.com/success-stories/case-shravans-journey",
+   "path": "/success-stories/case-shravans-journey",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hospitable",
+   "url": "https://hospitable.com/success-stories/case-study-casa-de-anny-a-timeless-destination-in-the-heart-of-colombia",
+   "path": "/success-stories/case-study-casa-de-anny-a-timeless-destination-in-the-heart-of-colombia",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hospitable",
+   "url": "https://hospitable.com/success-stories/case-sunny-coast-co-host",
+   "path": "/success-stories/case-sunny-coast-co-host",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hospitable",
+   "url": "https://hospitable.com/success-stories/case-taylor-adams",
+   "path": "/success-stories/case-taylor-adams",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hospitable",
+   "url": "https://hospitable.com/success-stories/case-the-lazy-bear-lakehouse",
+   "path": "/success-stories/case-the-lazy-bear-lakehouse",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hospitable",
+   "url": "https://hospitable.com/success-stories/case-the-rose-house",
+   "path": "/success-stories/case-the-rose-house",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hospitable",
+   "url": "https://hospitable.com/success-stories/case-zeona-mcintyre",
+   "path": "/success-stories/case-zeona-mcintyre",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hospitable",
+   "url": "https://hospitable.com/success-stories/from-admin-headaches-to-short-term-rental-automation",
+   "path": "/success-stories/from-admin-headaches-to-short-term-rental-automation",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hospitable",
+   "url": "https://hospitable.com/success-stories/home-havens-case-study",
+   "path": "/success-stories/home-havens-case-study",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hospitable",
+   "url": "https://hospitable.com/success-stories/quynh-vu-case-study",
+   "path": "/success-stories/quynh-vu-case-study",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hospitable",
+   "url": "https://hospitable.com/success-stories/remote-host-case-study",
+   "path": "/success-stories/remote-host-case-study",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hospitable",
+   "url": "https://hospitable.com/success-stories/tips-from-100k-host",
+   "path": "/success-stories/tips-from-100k-host",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hospitable",
+   "url": "https://hospitable.com/success-stories/tips-from-500k-host",
+   "path": "/success-stories/tips-from-500k-host",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hospitable",
+   "url": "https://hospitable.com/compare/guesty-alternative",
+   "path": "/compare/guesty-alternative",
+   "type": "vs_you",
+   "targets": [
+    "Guesty"
+   ]
+  },
+  {
+   "site": "Hospitable",
+   "url": "https://hospitable.com/compare/guesty-vs-guesty-lite",
+   "path": "/compare/guesty-vs-guesty-lite",
+   "type": "vs_you",
+   "targets": [
+    "Guesty"
+   ]
+  },
+  {
+   "site": "Hospitable",
+   "url": "https://hospitable.com/compare/guesty-vs-lodgify",
+   "path": "/compare/guesty-vs-lodgify",
+   "type": "vs_you",
+   "targets": [
+    "Guesty",
+    "Lodgify"
+   ]
+  },
+  {
+   "site": "Hospitable",
+   "url": "https://hospitable.com/compare/hospitable-vs-guesty",
+   "path": "/compare/hospitable-vs-guesty",
+   "type": "vs_you",
+   "targets": [
+    "Guesty"
+   ]
+  },
+  {
+   "site": "Hospitable",
+   "url": "https://hospitable.com/compare/hospitable-vs-hostaway",
+   "path": "/compare/hospitable-vs-hostaway",
+   "type": "vs_you",
+   "targets": [
+    "Hostaway"
+   ]
+  },
+  {
+   "site": "Hospitable",
+   "url": "https://hospitable.com/compare/hospitable-vs-igms",
+   "path": "/compare/hospitable-vs-igms",
+   "type": "vs_you",
+   "targets": [
+    "iGMS"
+   ]
+  },
+  {
+   "site": "Hospitable",
+   "url": "https://hospitable.com/compare/hospitable-vs-lodgify",
+   "path": "/compare/hospitable-vs-lodgify",
+   "type": "vs_you",
+   "targets": [
+    "Lodgify"
+   ]
+  },
+  {
+   "site": "Hospitable",
+   "url": "https://hospitable.com/compare/hospitable-vs-ownerrez",
+   "path": "/compare/hospitable-vs-ownerrez",
+   "type": "vs_you",
+   "targets": [
+    "OwnerRez"
+   ]
+  },
+  {
+   "site": "Hospitable",
+   "url": "https://hospitable.com/compare/hospitable-vs-smoobu",
+   "path": "/compare/hospitable-vs-smoobu",
+   "type": "vs_you",
+   "targets": [
+    "Smoobu"
+   ]
+  },
+  {
+   "site": "Hospitable",
+   "url": "https://hospitable.com/compare/hospitable-vs-uplisting",
+   "path": "/compare/hospitable-vs-uplisting",
+   "type": "vs_you",
+   "targets": [
+    "Uplisting"
+   ]
+  },
+  {
+   "site": "Hospitable",
+   "url": "https://hospitable.com/compare/hospitable-vs-yourporter-guesty-lite",
+   "path": "/compare/hospitable-vs-yourporter-guesty-lite",
+   "type": "vs_you",
+   "targets": [
+    "Guesty"
+   ]
+  },
+  {
+   "site": "Hospitable",
+   "url": "https://hospitable.com/compare/hostaway-alternative",
+   "path": "/compare/hostaway-alternative",
+   "type": "vs_you",
+   "targets": [
+    "Hostaway"
+   ]
+  },
+  {
+   "site": "Hospitable",
+   "url": "https://hospitable.com/compare/hostaway-vs-guesty",
+   "path": "/compare/hostaway-vs-guesty",
+   "type": "vs_you",
+   "targets": [
+    "Guesty",
+    "Hostaway"
+   ]
+  },
+  {
+   "site": "Hospitable",
+   "url": "https://hospitable.com/compare/hostfully-alternative",
+   "path": "/compare/hostfully-alternative",
+   "type": "vs_you",
+   "targets": [
+    "Hostfully"
+   ]
+  },
+  {
+   "site": "Hospitable",
+   "url": "https://hospitable.com/compare/hostfully-vs-guesty",
+   "path": "/compare/hostfully-vs-guesty",
+   "type": "vs_you",
+   "targets": [
+    "Guesty",
+    "Hostfully"
+   ]
+  },
+  {
+   "site": "Hospitable",
+   "url": "https://hospitable.com/compare/hostfully-vs-hospitable",
+   "path": "/compare/hostfully-vs-hospitable",
+   "type": "vs_you",
+   "targets": [
+    "Hostfully"
+   ]
+  },
+  {
+   "site": "Hospitable",
+   "url": "https://hospitable.com/compare/is-guesty-worth-it",
+   "path": "/compare/is-guesty-worth-it",
+   "type": "vs_you",
+   "targets": [
+    "Guesty"
+   ]
+  },
+  {
+   "site": "Hospitable",
+   "url": "https://hospitable.com/compare/is-lodgify-worth-it",
+   "path": "/compare/is-lodgify-worth-it",
+   "type": "vs_you",
+   "targets": [
+    "Lodgify"
+   ]
+  },
+  {
+   "site": "Hospitable",
+   "url": "https://hospitable.com/compare/lodgify-alternative",
+   "path": "/compare/lodgify-alternative",
+   "type": "vs_you",
+   "targets": [
+    "Lodgify"
+   ]
+  },
+  {
+   "site": "Hospitable",
+   "url": "https://hospitable.com/compare/lodgify-vs-hostaway",
+   "path": "/compare/lodgify-vs-hostaway",
+   "type": "vs_you",
+   "targets": [
+    "Lodgify",
+    "Hostaway"
+   ]
+  },
+  {
+   "site": "Hospitable",
+   "url": "https://hospitable.com/compare/lodgify-vs-hostfully",
+   "path": "/compare/lodgify-vs-hostfully",
+   "type": "vs_you",
+   "targets": [
+    "Lodgify",
+    "Hostfully"
+   ]
+  },
+  {
+   "site": "Hospitable",
+   "url": "https://hospitable.com/compare/lodgify-vs-igms",
+   "path": "/compare/lodgify-vs-igms",
+   "type": "vs_you",
+   "targets": [
+    "Lodgify",
+    "iGMS"
+   ]
+  },
+  {
+   "site": "Hospitable",
+   "url": "https://hospitable.com/compare/lodgify-vs-smoobu",
+   "path": "/compare/lodgify-vs-smoobu",
+   "type": "vs_you",
+   "targets": [
+    "Lodgify",
+    "Smoobu"
+   ]
+  },
+  {
+   "site": "Hospitable",
+   "url": "https://hospitable.com/compare/lodgify-vs-uplisting",
+   "path": "/compare/lodgify-vs-uplisting",
+   "type": "vs_you",
+   "targets": [
+    "Lodgify",
+    "Uplisting"
+   ]
+  },
+  {
+   "site": "Hospitable",
+   "url": "https://hospitable.com/compare/ownerrez-vs-lodgify",
+   "path": "/compare/ownerrez-vs-lodgify",
+   "type": "vs_you",
+   "targets": [
+    "OwnerRez",
+    "Lodgify"
+   ]
+  },
+  {
+   "site": "Hospitable",
+   "url": "https://hospitable.com/compare/smoobu-alternative",
+   "path": "/compare/smoobu-alternative",
+   "type": "vs_you",
+   "targets": [
+    "Smoobu"
+   ]
+  },
+  {
+   "site": "Hospitable",
+   "url": "https://hospitable.com/compare/uplisting-alternative",
+   "path": "/compare/uplisting-alternative",
+   "type": "vs_you",
+   "targets": [
+    "Uplisting"
+   ]
+  },
+  {
+   "site": "OwnerRez",
+   "url": "https://www.ownerrez.com/avantio-alternative",
+   "path": "/avantio-alternative",
+   "type": "alt",
+   "targets": [
+    "Avantio"
+   ]
+  },
+  {
+   "site": "OwnerRez",
+   "url": "https://www.ownerrez.com/guesty-alternative",
+   "path": "/guesty-alternative",
+   "type": "alt",
+   "targets": [
+    "Guesty"
+   ]
+  },
+  {
+   "site": "OwnerRez",
+   "url": "https://www.ownerrez.com/hospitable-alternative",
+   "path": "/hospitable-alternative",
+   "type": "alt",
+   "targets": [
+    "Hospitable"
+   ]
+  },
+  {
+   "site": "OwnerRez",
+   "url": "https://www.ownerrez.com/hostaway-alternative",
+   "path": "/hostaway-alternative",
+   "type": "alt",
+   "targets": [
+    "Hostaway"
+   ]
+  },
+  {
+   "site": "OwnerRez",
+   "url": "https://www.ownerrez.com/hostfully-alternative",
+   "path": "/hostfully-alternative",
+   "type": "alt",
+   "targets": [
+    "Hostfully"
+   ]
+  },
+  {
+   "site": "OwnerRez",
+   "url": "https://www.ownerrez.com/igms-alternative",
+   "path": "/igms-alternative",
+   "type": "alt",
+   "targets": [
+    "iGMS"
+   ]
+  },
+  {
+   "site": "OwnerRez",
+   "url": "https://www.ownerrez.com/lodgify-alternative",
+   "path": "/lodgify-alternative",
+   "type": "alt",
+   "targets": [
+    "Lodgify"
+   ]
+  },
+  {
+   "site": "OwnerRez",
+   "url": "https://www.ownerrez.com/smoobu-alternative",
+   "path": "/smoobu-alternative",
+   "type": "alt",
+   "targets": [
+    "Smoobu"
+   ]
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/comparisons/guesty-alternatives/",
+   "path": "/comparisons/guesty-alternatives",
+   "type": "alt",
+   "targets": [
+    "Guesty"
+   ]
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/comparisons/hostaway-alternatives/",
+   "path": "/comparisons/hostaway-alternatives",
+   "type": "alt",
+   "targets": [
+    "Hostaway"
+   ]
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/comparisons/smoobu-alternatives/",
+   "path": "/comparisons/smoobu-alternatives",
+   "type": "alt",
+   "targets": [
+    "Smoobu"
+   ]
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/success-stories/bitterroot-river/",
+   "path": "/success-stories/bitterroot-river",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/success-stories/casa-flourish/",
+   "path": "/success-stories/casa-flourish",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/success-stories/chiltern-canal-boat-holidays/",
+   "path": "/success-stories/chiltern-canal-boat-holidays",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/success-stories/clt-modern-getaway/",
+   "path": "/success-stories/clt-modern-getaway",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/success-stories/dimora-cortese/",
+   "path": "/success-stories/dimora-cortese",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/success-stories/dogwood-inn/",
+   "path": "/success-stories/dogwood-inn",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/success-stories/house-gallery10/",
+   "path": "/success-stories/house-gallery10",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/success-stories/kbl-advantage/",
+   "path": "/success-stories/kbl-advantage",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/success-stories/paradise-meadows/",
+   "path": "/success-stories/paradise-meadows",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/success-stories/rental12/",
+   "path": "/success-stories/rental12",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/success-stories/skol-apartments-marbella/",
+   "path": "/success-stories/skol-apartments-marbella",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/success-stories/stayhost/",
+   "path": "/success-stories/stayhost",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/success-stories/sunshine-coast-holiday-unit/",
+   "path": "/success-stories/sunshine-coast-holiday-unit",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/success-stories/the-woods-ocean-grove/",
+   "path": "/success-stories/the-woods-ocean-grove",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/success-stories/tiny-timbers/",
+   "path": "/success-stories/tiny-timbers",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/success-stories/triangle-palms/",
+   "path": "/success-stories/triangle-palms",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/success-stories/unique-island-assets/",
+   "path": "/success-stories/unique-island-assets",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/success-stories/valletta-property-rentals/",
+   "path": "/success-stories/valletta-property-rentals",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/success-stories/villa-beachcliff-grenada/",
+   "path": "/success-stories/villa-beachcliff-grenada",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/success-stories/villa-cp/",
+   "path": "/success-stories/villa-cp",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/success-stories/villa-maestrali/",
+   "path": "/success-stories/villa-maestrali",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/success-stories/villa-topaz/",
+   "path": "/success-stories/villa-topaz",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/success-stories/welcome-to-the-dans/",
+   "path": "/success-stories/welcome-to-the-dans",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/success-stories/zen-cluj/",
+   "path": "/success-stories/zen-cluj",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/switching-software/",
+   "path": "/switching-software",
+   "type": "switch",
+   "targets": []
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/comparisons/hospitable-vs-guesty/",
+   "path": "/comparisons/hospitable-vs-guesty",
+   "type": "vs_rivals",
+   "targets": [
+    "Guesty",
+    "Hospitable"
+   ]
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/comparisons/hospitable-vs-hostaway/",
+   "path": "/comparisons/hospitable-vs-hostaway",
+   "type": "vs_rivals",
+   "targets": [
+    "Hospitable",
+    "Hostaway"
+   ]
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/comparisons/hostaway-vs-guesty/",
+   "path": "/comparisons/hostaway-vs-guesty",
+   "type": "vs_rivals",
+   "targets": [
+    "Guesty",
+    "Hostaway"
+   ]
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/comparisons/hostfully-vs-guesty/",
+   "path": "/comparisons/hostfully-vs-guesty",
+   "type": "vs_rivals",
+   "targets": [
+    "Guesty",
+    "Hostfully"
+   ]
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/comparisons/hostfully-vs-hostaway/",
+   "path": "/comparisons/hostfully-vs-hostaway",
+   "type": "vs_rivals",
+   "targets": [
+    "Hostaway",
+    "Hostfully"
+   ]
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/comparisons/lodgify-vs-guesty/",
+   "path": "/comparisons/lodgify-vs-guesty",
+   "type": "vs_you",
+   "targets": [
+    "Guesty"
+   ]
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/comparisons/lodgify-vs-hospitable/",
+   "path": "/comparisons/lodgify-vs-hospitable",
+   "type": "vs_you",
+   "targets": [
+    "Hospitable"
+   ]
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/comparisons/lodgify-vs-hostaway/",
+   "path": "/comparisons/lodgify-vs-hostaway",
+   "type": "vs_you",
+   "targets": [
+    "Hostaway"
+   ]
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/comparisons/lodgify-vs-hostfully/",
+   "path": "/comparisons/lodgify-vs-hostfully",
+   "type": "vs_you",
+   "targets": [
+    "Hostfully"
+   ]
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/comparisons/lodgify-vs-igms/",
+   "path": "/comparisons/lodgify-vs-igms",
+   "type": "vs_you",
+   "targets": [
+    "iGMS"
+   ]
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/comparisons/lodgify-vs-ownerrez/",
+   "path": "/comparisons/lodgify-vs-ownerrez",
+   "type": "vs_you",
+   "targets": [
+    "OwnerRez"
+   ]
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/comparisons/lodgify-vs-smoobu/",
+   "path": "/comparisons/lodgify-vs-smoobu",
+   "type": "vs_you",
+   "targets": [
+    "Smoobu"
+   ]
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/comparisons/lodgify-vs-uplisting/",
+   "path": "/comparisons/lodgify-vs-uplisting",
+   "type": "vs_you",
+   "targets": [
+    "Uplisting"
+   ]
+  },
+  {
+   "site": "Uplisting",
+   "url": "https://www.uplisting.io/blog/whats-the-best-guesty-alternative-for-airbnb-hosts",
+   "path": "/blog/whats-the-best-guesty-alternative-for-airbnb-hosts",
+   "type": "alt",
+   "targets": [
+    "Guesty"
+   ]
+  },
+  {
+   "site": "Uplisting",
+   "url": "https://www.uplisting.io/comparisons/guesty-alternative",
+   "path": "/comparisons/guesty-alternative",
+   "type": "alt",
+   "targets": [
+    "Guesty"
+   ]
+  },
+  {
+   "site": "Uplisting",
+   "url": "https://www.uplisting.io/comparisons/hospitable-alternative",
+   "path": "/comparisons/hospitable-alternative",
+   "type": "alt",
+   "targets": [
+    "Hospitable"
+   ]
+  },
+  {
+   "site": "Uplisting",
+   "url": "https://www.uplisting.io/comparisons/hostaway-alternative",
+   "path": "/comparisons/hostaway-alternative",
+   "type": "alt",
+   "targets": [
+    "Hostaway"
+   ]
+  },
+  {
+   "site": "Uplisting",
+   "url": "https://www.uplisting.io/comparisons/igms-alternative",
+   "path": "/comparisons/igms-alternative",
+   "type": "alt",
+   "targets": [
+    "iGMS"
+   ]
+  },
+  {
+   "site": "Uplisting",
+   "url": "https://www.uplisting.io/comparisons/lodgify-alternative",
+   "path": "/comparisons/lodgify-alternative",
+   "type": "alt",
+   "targets": [
+    "Lodgify"
+   ]
+  },
+  {
+   "site": "Uplisting",
+   "url": "https://www.uplisting.io/comparisons/smoobu-alternative",
+   "path": "/comparisons/smoobu-alternative",
+   "type": "alt",
+   "targets": [
+    "Smoobu"
+   ]
+  },
+  {
+   "site": "Uplisting",
+   "url": "https://www.uplisting.io/customers/comfort-short-stays",
+   "path": "/customers/comfort-short-stays",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Uplisting",
+   "url": "https://www.uplisting.io/customers/copperhouse-property",
+   "path": "/customers/copperhouse-property",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Uplisting",
+   "url": "https://www.uplisting.io/customers/foxden-hospitality",
+   "path": "/customers/foxden-hospitality",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Uplisting",
+   "url": "https://www.uplisting.io/customers/hostminded",
+   "path": "/customers/hostminded",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Uplisting",
+   "url": "https://www.uplisting.io/customers/luke-capital-group",
+   "path": "/customers/luke-capital-group",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Uplisting",
+   "url": "https://www.uplisting.io/customers/nomad-capital-ventures",
+   "path": "/customers/nomad-capital-ventures",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Uplisting",
+   "url": "https://www.uplisting.io/customers/pass-the-property",
+   "path": "/customers/pass-the-property",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Uplisting",
+   "url": "https://www.uplisting.io/customers/pocono-rental-management",
+   "path": "/customers/pocono-rental-management",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Uplisting",
+   "url": "https://www.uplisting.io/customers/propke",
+   "path": "/customers/propke",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Uplisting",
+   "url": "https://www.uplisting.io/customers/the-wolf-rentals",
+   "path": "/customers/the-wolf-rentals",
+   "type": "case",
+   "targets": []
+  }
+ ]
+}

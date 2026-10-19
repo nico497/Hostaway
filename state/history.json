@@ -1,0 +1,52 @@
+{
+ "weeks": [
+  {
+   "week": "2026-W43",
+   "date": "2026-10-19T08:25:30+00:00",
+   "sites": {
+    "Hostaway": {
+     "new": 1,
+     "updated": 0,
+     "removed": 0,
+     "pages": 1326
+    },
+    "Guesty": {
+     "new": 0,
+     "updated": 0,
+     "removed": 0,
+     "pages": 0
+    },
+    "Hospitable": {
+     "new": 0,
+     "updated": 0,
+     "removed": 0,
+     "pages": 861
+    },
+    "OwnerRez": {
+     "new": 0,
+     "updated": 0,
+     "removed": 0,
+     "pages": 1175
+    },
+    "Lodgify": {
+     "new": 1,
+     "updated": 0,
+     "removed": 0,
+     "pages": 301
+    },
+    "Track": {
+     "new": 0,
+     "updated": 0,
+     "removed": 0,
+     "pages": 0
+    },
+    "Uplisting": {
+     "new": 0,
+     "updated": 0,
+     "removed": 0,
+     "pages": 415
+    }
+   }
+  }
+ ]
+}
