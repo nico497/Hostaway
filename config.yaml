@@ -1,0 +1,52 @@
+# ------------------------------------------------------------------
+# Competitor Radar config
+# List your competitors (and optionally yourself). That's all most people need.
+# Test the sites any time with:  python radar.py --check
+# ------------------------------------------------------------------
+
+title: Competitor Radar
+
+# Used to tailor the analysis.
+niche: Vacation rental and short-term rental property management software (channel manager, PMS, direct booking)
+audience: Hostaway's marketing team, winning short-term rental property managers and hosts evaluating channel managers and PMS platforms
+
+window_days: 30          # the dashboard compares the last 30 days with the 30 before
+first_run_days: 60       # on the first run, classify pages dated within this many days
+max_classify_per_run: 200   # spend cap: extra pages wait for the next run
+
+models:
+  classify: claude-haiku-4-5-20251001   # one cheap call per new page
+  analyse: claude-sonnet-5-5            # one call per run for the breakdown
+
+# Optional: your own site, shown as the first row so gaps are relative to you.
+you:
+  name: Hostaway
+  site: https://www.hostaway.com
+
+# ------------------------------------------------------------------
+# Competitors. Each needs a name and a site. The radar finds the sitemap
+# (or feed) itself. If it can't, add one of these:
+#   sitemap: https://example.com/post-sitemap.xml
+#   feed:    https://example.com/blog/feed
+# Optional:
+#   include_pattern: /blog/     only count URLs matching this regex
+#   exclude_pattern: /docs/     ignore URLs matching this regex
+# ------------------------------------------------------------------
+competitors:
+  - name: Guesty
+    site: https://www.guesty.com
+
+  - name: Hospitable
+    site: https://hospitable.com
+
+  - name: OwnerRez
+    site: https://www.ownerrez.com
+
+  - name: Lodgify
+    site: https://www.lodgify.com
+
+  - name: Track
+    site: https://trackhs.com
+
+  - name: Uplisting
+    site: https://www.uplisting.io
