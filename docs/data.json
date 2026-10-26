@@ -2,16 +2,16 @@
  "meta": {
   "title": "Competitor Radar",
   "niche": "Vacation rental and short-term rental property management software (channel manager, PMS, direct booking)",
-  "updated": "2026-10-19T08:25:30+00:00",
+  "updated": "2026-10-26T13:13:06+00:00",
   "window_days": 30,
   "repo": "nico497/Hostaway",
-  "first_run": true,
+  "first_run": false,
   "errors": [],
-  "pending": 107,
+  "pending": 67,
   "analysis_stale": false,
   "per_run": 200,
   "tracking_since": "2026-10-19T08:25:30+00:00",
-  "tracking_days": 0
+  "tracking_days": 7
  },
  "types": [
   [
@@ -48,64 +48,70 @@
   ]
  ],
  "analysis": {
-  "summary": "Hostaway is the only company with real publishing activity in the last 30 days. Hospitable, OwnerRez and Uplisting published nothing, and Lodgify published one event page.",
+  "summary": "Hostaway publishes the widest mix: news explainers, research, case studies. Rivals stay narrower: Lodgify refreshes sales pages, Hospitable pushes money and tax tools, OwnerRez posts customer news, Uplisting adds feature pages.",
   "points": [
    {
-    "text": "Hostaway published 2 new pages and updated 4 older ones, mostly how-to and news that react to Airbnb and Booking.com changes.",
+    "text": "Hostaway is the only one reacting fast to platform changes, with Vrbo's 12% fee, Booking.com phone numbers and Airbnb's fall update all new.",
     "names": [
      "Hostaway"
     ]
    },
    {
-    "text": "Lodgify's only new page promotes a free livestream, the Independent Host Summit 2026, which points to event-led reach with independent hosts.",
+    "text": "Lodgify updated 13 older pages, mostly channel manager and Airbnb/Booking.com software pages. This looks like a refresh of its buying pages.",
     "names": [
      "Lodgify"
     ]
    },
    {
-    "text": "Hospitable, OwnerRez and Uplisting showed no new or updated pages, so nobody is contesting fast-reaction content right now.",
+    "text": "Hospitable is building around money tasks: payments, taxes and trust accounting, across 4 of its 6 new pages.",
     "names": [
-     "Hospitable",
-     "OwnerRez",
-     "Uplisting"
+     "Hospitable"
     ]
    }
   ],
   "plays": {
    "Hostaway": {
-    "play": "Fast news on platform changes, plus refreshed guides and an AI benchmark report.",
-    "aimed": "STR operators researching tools"
+    "play": "Fast explainers on Airbnb, Vrbo and Booking.com changes, plus case studies and an AI benchmark report",
+    "aimed": "Operators learning, comparing and buying"
    },
    "Hospitable": {
-    "play": "No new or updated pages this month. No visible play.",
-    "aimed": "n/a"
+    "play": "Pushes payments, tax and trust accounting tools, plus a rent-type calculator",
+    "aimed": "Hosts needing built-in money tools"
    },
    "OwnerRez": {
-    "play": "No recent publishing. Its 7793 pages are mostly forums, support and reviews.",
-    "aimed": "n/a"
+    "play": "Announces integrations, podcast episodes and a customer profile for existing users",
+    "aimed": "Current OwnerRez customers"
    },
    "Lodgify": {
-    "play": "Promotes a free livestream event, the Independent Host Summit 2026.",
-    "aimed": "Independent hosts"
+    "play": "Refreshes channel manager and Airbnb/Booking.com software pages, plus a free host summit",
+    "aimed": "Independent hosts ready to buy"
    },
    "Uplisting": {
-    "play": "No new or updated pages this month. No visible play.",
-    "aimed": "n/a"
+    "play": "Launches three feature pages: tasks, compliance, and deposits and disputes",
+    "aimed": "Hosts comparing feature-level software"
    }
   },
   "shared": [
    {
-    "title": "Quiet month",
-    "text": "Hospitable, OwnerRez and Uplisting published nothing new and updated nothing. Hostaway can set the pace on timely topics without much pressure from them.",
+    "title": "Task management pages",
+    "text": "Lodgify and Uplisting both focus on task management for rentals. Hostaway has no page on this in its recent data, so check coverage.",
     "names": [
-     "Hospitable",
-     "OwnerRez",
+     "Lodgify",
      "Uplisting"
     ]
    },
    {
-    "title": "Big pages, little activity",
-    "text": "OwnerRez has 7793 pages and Hospitable has 861, but neither showed any change in 30 days. Hostaway's recent output is small, but it is the only steady one.",
+    "title": "Money and compliance features",
+    "text": "Hospitable (payments, taxes), Lodgify (payment processing) and Uplisting (compliance, deposits) all publish pages on handling money and rules. Hostaway's new pages in this area are thin.",
+    "names": [
+     "Hospitable",
+     "Lodgify",
+     "Uplisting"
+    ]
+   },
+   {
+    "title": "Localbird tie-ins",
+    "text": "OwnerRez announced a Localbird integration and Hospitable ran a Localbird podcast. Both are courting the same partner's audience.",
     "names": [
      "Hospitable",
      "OwnerRez"
@@ -114,16 +120,16 @@
   ],
   "gaps": [
    {
-    "title": "Live events for hosts",
-    "text": "Only Lodgify ran an event page, and it is one page. Hostaway could host a free summit or webinar series for property managers."
+    "title": "STR trust accounting guides",
+    "text": "Only Hospitable covers it, including Australia. Hostaway could publish trust accounting guides for several countries."
    },
    {
-    "title": "Platform change alerts",
-    "text": "Nobody but Hostaway covered Booking.com or Airbnb changes. Hostaway could build a standing hub that tracks every channel update."
+    "title": "Tax and compliance explainers",
+    "text": "Hospitable and Uplisting publish product pages only. Hostaway could own plain-English how-to guides on tax and rules."
    },
    {
-    "title": "Comparison pages vs rivals",
-    "text": "No competitor showed comparison content, and Hostaway has only 1 page on it. Hostaway could own PMS and channel manager comparison searches."
+    "title": "Channel manager comparison hubs",
+    "text": "Lodgify owns single-channel pages. Hostaway could publish neutral side-by-side guides to win evaluators; it has just 1 comparison page."
    }
   ],
   "versus": {}
@@ -133,25 +139,25 @@
    "name": "Hostaway",
    "site": "https://www.hostaway.com",
    "you": true,
-   "n": 6,
-   "site_pages": 1596,
-   "n_prev": 31,
-   "refreshed": 4,
+   "n": 14,
+   "site_pages": 1601,
+   "n_prev": 28,
+   "refreshed": 7,
    "mix": {
     "compare": 1,
-    "howto": 3,
+    "howto": 5,
     "list": 0,
     "research": 1,
-    "case": 0,
+    "case": 2,
     "opinion": 0,
     "news": 1,
-    "landing": 0
+    "landing": 1
    },
    "stages": {
     "learning": 4,
     "comparing": 1,
-    "buying": 0,
-    "customers": 1
+    "buying": 3,
+    "customers": 3
    },
    "topics": [
     "booking.com phone numbers api change",
@@ -160,16 +166,16 @@
     "airbnb vs vrbo for property managers",
     "dynamic pricing for vacation rentals"
    ],
-   "unclassified": 0,
+   "unclassified": 3,
    "removed": 0,
    "removed_titles": [],
-   "new": 2,
-   "updated": 4,
+   "new": 7,
+   "updated": 7,
    "bulk": [],
    "programmatic": [
     {
      "section": "marketplace",
-     "pages": 270,
+     "pages": 268,
      "new": 0
     }
    ],
@@ -177,41 +183,47 @@
    "error": null,
    "method": "sitemap",
    "url": "https://www.hostaway.com/sitemap-index.xml",
-   "pages": 1596,
-   "undated": 768,
-   "new_urls": 0,
-   "play": "Fast news on platform changes, plus refreshed guides and an AI benchmark report.",
-   "aimed": "STR operators researching tools"
+   "pages": 1599,
+   "undated": 769,
+   "new_urls": 5,
+   "play": "Fast explainers on Airbnb, Vrbo and Booking.com changes, plus case studies and an AI benchmark report",
+   "aimed": "Operators learning, comparing and buying"
   },
   {
    "name": "Hospitable",
    "site": "https://hospitable.com",
    "you": false,
-   "n": 0,
-   "site_pages": 861,
+   "n": 6,
+   "site_pages": 867,
    "n_prev": 0,
    "refreshed": 0,
    "mix": {
-    "compare": 0,
-    "howto": 0,
+    "compare": 1,
+    "howto": 1,
     "list": 0,
     "research": 0,
-    "case": 0,
+    "case": 1,
     "opinion": 0,
     "news": 0,
-    "landing": 0
+    "landing": 3
    },
    "stages": {
-    "learning": 0,
+    "learning": 3,
     "comparing": 0,
-    "buying": 0,
+    "buying": 3,
     "customers": 0
    },
-   "topics": [],
+   "topics": [
+    "payment processing and chargeback protection",
+    "str tax compliance and remittance",
+    "trust accounting for rental properties",
+    "short-term vs long-term rental strategies",
+    "vacation rental trust accounting australia"
+   ],
    "unclassified": 0,
    "removed": 0,
    "removed_titles": [],
-   "new": 0,
+   "new": 6,
    "updated": 0,
    "bulk": [],
    "programmatic": [],
@@ -219,18 +231,18 @@
    "error": null,
    "method": "sitemap",
    "url": "https://hospitable.com/sitemap.xml",
-   "pages": 861,
-   "undated": 861,
-   "new_urls": 0,
-   "play": "No new or updated pages this month. No visible play.",
-   "aimed": "n/a"
+   "pages": 865,
+   "undated": 865,
+   "new_urls": 6,
+   "play": "Pushes payments, tax and trust accounting tools, plus a rent-type calculator",
+   "aimed": "Hosts needing built-in money tools"
   },
   {
    "name": "OwnerRez",
    "site": "https://www.ownerrez.com",
    "you": false,
-   "n": 0,
-   "site_pages": 7793,
+   "n": 6,
+   "site_pages": 7834,
    "n_prev": 0,
    "refreshed": 0,
    "mix": {
@@ -238,83 +250,93 @@
     "howto": 0,
     "list": 0,
     "research": 0,
-    "case": 0,
-    "opinion": 0,
-    "news": 0,
+    "case": 1,
+    "opinion": 1,
+    "news": 4,
     "landing": 0
    },
    "stages": {
     "learning": 0,
     "comparing": 0,
     "buying": 0,
-    "customers": 0
+    "customers": 6
    },
-   "topics": [],
+   "topics": [
+    "podcast episode business balance",
+    "hostiq integration announcement",
+    "vacation rental scaling with ownerrez",
+    "localbird concierge integration",
+    "airbnb policy changes industry updates"
+   ],
    "unclassified": 0,
    "removed": 0,
    "removed_titles": [],
-   "new": 0,
+   "new": 6,
    "updated": 0,
    "bulk": [],
    "programmatic": [
     {
      "section": "forums",
-     "pages": 4964,
-     "new": 0
+     "pages": 4984,
+     "new": 20
     },
     {
      "section": "support",
-     "pages": 1243,
-     "new": 0
+     "pages": 1254,
+     "new": 13
     },
     {
      "section": "reviews",
-     "pages": 411,
-     "new": 0
+     "pages": 412,
+     "new": 1
     }
    ],
    "ok": true,
    "error": null,
    "method": "sitemap",
    "url": "https://www.ownerrez.com/sitemap.xml",
-   "pages": 7793,
-   "undated": 7793,
-   "new_urls": 0,
-   "play": "No recent publishing. Its 7793 pages are mostly forums, support and reviews.",
-   "aimed": "n/a"
+   "pages": 7832,
+   "undated": 7832,
+   "new_urls": 41,
+   "play": "Announces integrations, podcast episodes and a customer profile for existing users",
+   "aimed": "Current OwnerRez customers"
   },
   {
    "name": "Lodgify",
    "site": "https://www.lodgify.com",
    "you": false,
-   "n": 1,
+   "n": 14,
    "site_pages": 450,
-   "n_prev": 1,
-   "refreshed": 0,
+   "n_prev": 3,
+   "refreshed": 17,
    "mix": {
     "compare": 0,
-    "howto": 0,
+    "howto": 1,
     "list": 0,
     "research": 0,
     "case": 0,
     "opinion": 0,
     "news": 1,
-    "landing": 0
+    "landing": 12
    },
    "stages": {
-    "learning": 1,
+    "learning": 2,
     "comparing": 0,
-    "buying": 0,
+    "buying": 12,
     "customers": 0
    },
    "topics": [
-    "independent host summit 2026"
+    "task management for vacation rentals",
+    "vacation rental channel manager",
+    "airbnb channel manager calendar sync",
+    "vrbo channel manager sync calendars",
+    "booking.com channel manager"
    ],
-   "unclassified": 106,
+   "unclassified": 65,
    "removed": 0,
    "removed_titles": [],
    "new": 1,
-   "updated": 0,
+   "updated": 13,
    "bulk": [],
    "programmatic": [
     {
@@ -330,16 +352,16 @@
    "pages": 450,
    "undated": 0,
    "new_urls": 0,
-   "play": "Promotes a free livestream event, the Independent Host Summit 2026.",
-   "aimed": "Independent hosts"
+   "play": "Refreshes channel manager and Airbnb/Booking.com software pages, plus a free host summit",
+   "aimed": "Independent hosts ready to buy"
   },
   {
    "name": "Uplisting",
    "site": "https://www.uplisting.io",
    "you": false,
-   "n": 0,
-   "site_pages": 415,
-   "n_prev": 2,
+   "n": 3,
+   "site_pages": 418,
+   "n_prev": 4,
    "refreshed": 0,
    "mix": {
     "compare": 0,
@@ -349,19 +371,23 @@
     "case": 0,
     "opinion": 0,
     "news": 0,
-    "landing": 0
+    "landing": 3
    },
    "stages": {
     "learning": 0,
-    "comparing": 0,
-    "buying": 0,
+    "comparing": 1,
+    "buying": 2,
     "customers": 0
    },
-   "topics": [],
-   "unclassified": 0,
+   "topics": [
+    "task management for short-term rentals",
+    "short-term rental compliance software",
+    "str deposit and dispute management"
+   ],
+   "unclassified": 1,
    "removed": 0,
    "removed_titles": [],
-   "new": 0,
+   "new": 3,
    "updated": 0,
    "bulk": [],
    "programmatic": [],
@@ -369,14 +395,476 @@
    "error": null,
    "method": "sitemap",
    "url": "https://www.uplisting.io/sitemap.xml",
-   "pages": 415,
+   "pages": 418,
    "undated": 0,
-   "new_urls": 0,
-   "play": "No new or updated pages this month. No visible play.",
-   "aimed": "n/a"
+   "new_urls": 3,
+   "play": "Launches three feature pages: tasks, compliance, and deposits and disputes",
+   "aimed": "Hosts comparing feature-level software"
   }
  ],
  "pages": [
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/task-management/",
+   "title": "Task Management for Vacation Rentals | Lodgify",
+   "date": "2026-10-26T13:13:06+00:00",
+   "kind": "updated",
+   "published": null,
+   "first_seen": "2026-10-19T08:25:30+00:00",
+   "type": "landing",
+   "stage": "buying",
+   "topic": "Task management for vacation rentals",
+   "search": "task management vacation rental software",
+   "why": "Converts prospects exploring Lodgify's task management capabilities into free trial signups."
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/vacation-rental-channel-manager/",
+   "title": "Vacation Rental Channel Manager | Sync All Your Calendars",
+   "date": "2026-10-26T13:13:06+00:00",
+   "kind": "updated",
+   "published": null,
+   "first_seen": "2026-10-19T08:25:30+00:00",
+   "type": "landing",
+   "stage": "buying",
+   "topic": "Vacation rental channel manager",
+   "search": "vacation rental channel manager",
+   "why": "Targets property managers seeking to sync calendars across multiple listing platforms."
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/vacation-rental-channel-manager/airbnb/",
+   "title": "Airbnb Channel Manager | Sync Your Calendars, Bookings & More",
+   "date": "2026-10-26T13:13:06+00:00",
+   "kind": "updated",
+   "published": null,
+   "first_seen": "2026-10-19T08:25:30+00:00",
+   "type": "landing",
+   "stage": "buying",
+   "topic": "Airbnb channel manager calendar sync",
+   "search": "airbnb channel manager",
+   "why": "Converts Airbnb hosts ready to automate calendar and booking management across multiple platforms."
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/vacation-rental-channel-manager/vrbo/",
+   "title": "Vrbo Channel Manager | Sync Calendars & Bookings | Lodgify",
+   "date": "2026-10-26T13:13:06+00:00",
+   "kind": "updated",
+   "published": null,
+   "first_seen": "2026-10-19T08:25:30+00:00",
+   "type": "landing",
+   "stage": "buying",
+   "topic": "Vrbo channel manager sync calendars",
+   "search": "vrbo channel manager sync calendars",
+   "why": "Targets hosts comparing Vrbo integration solutions to streamline multi-platform bookings."
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/vacation-rental-channel-manager/booking/",
+   "title": "Booking.com Channel Manager | Sync Calendars & Rates | Lodgify",
+   "date": "2026-10-26T13:13:06+00:00",
+   "kind": "updated",
+   "published": null,
+   "first_seen": "2026-10-19T08:25:30+00:00",
+   "type": "landing",
+   "stage": "buying",
+   "topic": "Booking.com channel manager",
+   "search": "Booking.com channel manager sync calendars",
+   "why": "Targets hosts ready to connect Booking.com with Lodgify for automated syncing."
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/guest-management/",
+   "title": "Vacation Rental Guest Management | Lodgify",
+   "date": "2026-10-26T13:13:06+00:00",
+   "kind": "updated",
+   "published": null,
+   "first_seen": "2026-10-19T08:25:30+00:00",
+   "type": "landing",
+   "stage": "buying",
+   "topic": "Vacation rental guest management",
+   "search": "vacation rental guest management software",
+   "why": "Showcases guest communication features to convert booking owners into paying customers."
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/automation-tools/",
+   "title": "Automation Tools for Vacation Rentals | Lodgify",
+   "date": "2026-10-26T13:13:06+00:00",
+   "kind": "updated",
+   "published": null,
+   "first_seen": "2026-10-19T08:25:30+00:00",
+   "type": "landing",
+   "stage": "buying",
+   "topic": "Vacation rental automation tools",
+   "search": "automation tools vacation rentals",
+   "why": "Showcases key automation features to convert property managers evaluating workflow solutions."
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/payment-processing/",
+   "title": "Vacation Rental Payment Processing | Lodgify",
+   "date": "2026-10-26T13:13:06+00:00",
+   "kind": "updated",
+   "published": null,
+   "first_seen": "2026-10-19T08:25:30+00:00",
+   "type": "landing",
+   "stage": "buying",
+   "topic": "Vacation rental payment processing",
+   "search": "vacation rental payment processing software",
+   "why": "Converts prospects into customers by showcasing payment features and direct booking benefits."
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/airbnb-management-software/",
+   "title": "Airbnb Management Software | Lodgify",
+   "date": "2026-10-26T13:13:06+00:00",
+   "kind": "updated",
+   "published": null,
+   "first_seen": "2026-10-19T08:25:30+00:00",
+   "type": "landing",
+   "stage": "buying",
+   "topic": "Airbnb management software automation",
+   "search": "airbnb management software",
+   "why": "Targets Airbnb hosts ready to adopt a property management tool with automation features."
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/booking-management-software/",
+   "title": "Booking.com Management Software | Lodgify",
+   "date": "2026-10-26T13:13:06+00:00",
+   "kind": "updated",
+   "published": null,
+   "first_seen": "2026-10-19T08:25:30+00:00",
+   "type": "landing",
+   "stage": "buying",
+   "topic": "Booking.com management software",
+   "search": "Booking.com management software for hosts",
+   "why": "Converts vacation rental hosts managing Booking.com listings seeking dedicated management solution."
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/switching-software/",
+   "title": "Switch Vacation Rental Software to Lodgify | Easy Migration",
+   "date": "2026-10-26T13:13:06+00:00",
+   "kind": "updated",
+   "published": null,
+   "first_seen": "2026-10-19T08:25:30+00:00",
+   "type": "landing",
+   "stage": "buying",
+   "topic": "Switch vacation rental software to Lodgify",
+   "search": "switch vacation rental software",
+   "why": "Converts users actively switching from competitor platforms with migration support."
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/faqs/",
+   "title": "Frequently Asked Questions | Lodgify",
+   "date": "2026-10-26T13:13:06+00:00",
+   "kind": "updated",
+   "published": null,
+   "first_seen": "2026-10-19T08:25:30+00:00",
+   "type": "howto",
+   "stage": "learning",
+   "topic": "Vacation rental software FAQ answers",
+   "search": "how much does Lodgify cost",
+   "why": "Removes friction for prospects evaluating Lodgify by answering common concerns upfront."
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/airbnb-hosts/",
+   "title": "Property Management Software for Airbnb Hosts | Lodgify",
+   "date": "2026-10-26T13:13:06+00:00",
+   "kind": "updated",
+   "published": null,
+   "first_seen": "2026-10-19T08:25:30+00:00",
+   "type": "landing",
+   "stage": "buying",
+   "topic": "Airbnb property management software",
+   "search": "property management software for Airbnb hosts",
+   "why": "Converts Airbnb hosts ready to adopt a channel manager and booking automation tool."
+  },
+  {
+   "site": "Hostaway",
+   "url": "https://www.hostaway.com/case-studies/levelup-stays/",
+   "title": "How LevelUp Stays Outperforms the Market by 53% | Hostaway | Hostaway Reviews",
+   "date": "2026-10-26T13:13:06+00:00",
+   "kind": "new",
+   "published": null,
+   "first_seen": "2026-10-26T13:13:06+00:00",
+   "type": "case",
+   "stage": "buying",
+   "topic": "Vacation rental revenue and guest satisfaction",
+   "search": "vacation rental property management software",
+   "why": "Demonstrates ROI and competitive advantage to convince rental operators to adopt Hostaway."
+  },
+  {
+   "site": "Hostaway",
+   "url": "https://www.hostaway.com/case-studies/sunnycoast-homestays/",
+   "title": "From Orlando to the Costa del Sol: How SunnyCoast HomeStays Brought Its Holiday Rental Experience to Spain with Hostaway | Hostaway Reviews",
+   "date": "2026-10-26T13:13:06+00:00",
+   "kind": "new",
+   "published": null,
+   "first_seen": "2026-10-26T13:13:06+00:00",
+   "type": "case",
+   "stage": "customers",
+   "topic": "Holiday rental management Spain expansion",
+   "search": "vacation rental management software Spain",
+   "why": "Shows existing customer success scaling from Orlando to Spain using Hostaway's platform."
+  },
+  {
+   "site": "Hostaway",
+   "url": "https://www.hostaway.com/blog/vrbo-new-commission-for-hosts/",
+   "title": "Vrbo's New 12% Commission: What It Means & How to Prepare",
+   "date": "2026-10-26T13:13:06+00:00",
+   "kind": "new",
+   "published": "2026-10-20T11:10:12+00:00",
+   "first_seen": "2026-10-26T13:13:06+00:00",
+   "type": "howto",
+   "stage": "buying",
+   "topic": "Vrbo commission increase pricing strategy",
+   "search": "Vrbo 12% commission what does it mean",
+   "why": "Shows Hostaway solves pricing adjustment problem from Vrbo's commission change."
+  },
+  {
+   "site": "Hostaway",
+   "url": "https://www.hostaway.com/blog/scaling-without-adding-headcount/",
+   "title": "Scaling an STR Business Without Adding Headcount",
+   "date": "2026-10-26T13:13:06+00:00",
+   "kind": "new",
+   "published": "2026-10-19T08:50:41+00:00",
+   "first_seen": "2026-10-26T13:13:06+00:00",
+   "type": "howto",
+   "stage": "customers",
+   "topic": "AI automation reduces operational headcount needs",
+   "search": "scaling property management without hiring staff",
+   "why": "Helps existing operators optimize costs by understanding which roles AI can replace versus which need humans."
+  },
+  {
+   "site": "Hostaway",
+   "url": "https://www.hostaway.com/features/quickbooks-integration/",
+   "title": "Integrate Hostaway with QuickBooks Online",
+   "date": "2026-10-26T13:13:06+00:00",
+   "kind": "new",
+   "published": null,
+   "first_seen": "2026-10-26T13:13:06+00:00",
+   "type": "landing",
+   "stage": "buying",
+   "topic": "QuickBooks accounting integration for rentals",
+   "search": "Hostaway QuickBooks Online integration",
+   "why": "Converts interested prospects into customers by showcasing automated accounting workflow and time savings."
+  },
+  {
+   "site": "Hospitable",
+   "url": "https://hospitable.com/features/hospitable-payments",
+   "title": "Hospitable Payments For Your STR",
+   "date": "2026-10-26T13:13:06+00:00",
+   "kind": "new",
+   "published": null,
+   "first_seen": "2026-10-26T13:13:06+00:00",
+   "type": "landing",
+   "stage": "buying",
+   "topic": "Payment processing and chargeback protection",
+   "search": "STR payment processor chargeback protection",
+   "why": "Sells a premium payment feature that absorbs fraud risk and dispute costs."
+  },
+  {
+   "site": "Hospitable",
+   "url": "https://hospitable.com/features/taxes",
+   "title": "A PMS That Handles STR Taxes",
+   "date": "2026-10-26T13:13:06+00:00",
+   "kind": "new",
+   "published": null,
+   "first_seen": "2026-10-26T13:13:06+00:00",
+   "type": "landing",
+   "stage": "buying",
+   "topic": "STR tax compliance and remittance",
+   "search": "vacation rental tax compliance software",
+   "why": "Demonstrates core feature differentiator to convince property managers to choose their PMS solution."
+  },
+  {
+   "site": "Hospitable",
+   "url": "https://hospitable.com/features/trust-accounting",
+   "title": "Trust Accounting without the complexity | Hospitable",
+   "date": "2026-10-26T13:13:06+00:00",
+   "kind": "new",
+   "published": null,
+   "first_seen": "2026-10-26T13:13:06+00:00",
+   "type": "landing",
+   "stage": "buying",
+   "topic": "Trust accounting for rental properties",
+   "search": "trust accounting software rental management",
+   "why": "Showcases automated reconciliation feature to convert evaluating prospects into customers."
+  },
+  {
+   "site": "Hospitable",
+   "url": "https://hospitable.com/short-term-rental-vs-long-term-rental",
+   "title": "Short-Term Rental vs. Long-Term Rental: Calculator and Comparison",
+   "date": "2026-10-26T13:13:06+00:00",
+   "kind": "new",
+   "published": "2026-10-26T00:00:00+00:00",
+   "first_seen": "2026-10-26T13:13:06+00:00",
+   "type": "compare",
+   "stage": "learning",
+   "topic": "Short-term vs long-term rental strategies",
+   "search": "short-term rental vs long-term rental",
+   "why": "Educates early-stage property investors on rental strategy choice, positioning their PMS for diverse use cases."
+  },
+  {
+   "site": "Hospitable",
+   "url": "https://hospitable.com/vacation-rental-trust-accounting-australia",
+   "title": "Vacation Rental Trust Accounting in Australia",
+   "date": "2026-10-26T13:13:06+00:00",
+   "kind": "new",
+   "published": "2026-10-21T00:00:00+00:00",
+   "first_seen": "2026-10-26T13:13:06+00:00",
+   "type": "howto",
+   "stage": "learning",
+   "topic": "vacation rental trust accounting Australia",
+   "search": "vacation rental trust accounting australia",
+   "why": "Educates property managers on trust accounting requirements and best practices to establish authority."
+  },
+  {
+   "site": "Hospitable",
+   "url": "https://hospitable.com/podcast-ben-levy-localbird",
+   "title": "Podcast: Ben Levy, Localbird",
+   "date": "2026-10-26T13:13:06+00:00",
+   "kind": "new",
+   "published": "2026-10-21T00:00:00+00:00",
+   "first_seen": "2026-10-26T13:13:06+00:00",
+   "type": "case",
+   "stage": "learning",
+   "topic": "Monetizing guest experiences with concierge",
+   "search": "how to earn from vacation rental concierge services",
+   "why": "Introduces Localbird partnership to hosts seeking new revenue streams from guest experiences."
+  },
+  {
+   "site": "OwnerRez",
+   "url": "https://www.ownerrez.com/blog/walk-n-talk-podcast-ep24-the-power-of-balance",
+   "title": "Walk ’n Talk Podcast: EP24 - The Power of Balance",
+   "date": "2026-10-26T13:13:06+00:00",
+   "kind": "new",
+   "published": null,
+   "first_seen": "2026-10-26T13:13:06+00:00",
+   "type": "news",
+   "stage": "customers",
+   "topic": "Podcast episode business balance",
+   "search": "vacation rental business podcast",
+   "why": "Builds community and thought leadership by sharing CEO and CTO insights with hosts and property managers."
+  },
+  {
+   "site": "OwnerRez",
+   "url": "https://www.ownerrez.com/blog/integration-with-hostiq",
+   "title": "Integration With HostIQ",
+   "date": "2026-10-26T13:13:06+00:00",
+   "kind": "new",
+   "published": null,
+   "first_seen": "2026-10-26T13:13:06+00:00",
+   "type": "news",
+   "stage": "customers",
+   "topic": "HostIQ integration announcement",
+   "search": "HostIQ integration OwnerRez",
+   "why": "Announces new integration to existing customers and highlights revenue opportunities."
+  },
+  {
+   "site": "OwnerRez",
+   "url": "https://www.ownerrez.com/blog/user-profile-vacation-rental-co",
+   "title": "User Profile: Vacation Rental Co",
+   "date": "2026-10-26T13:13:06+00:00",
+   "kind": "new",
+   "published": null,
+   "first_seen": "2026-10-26T13:13:06+00:00",
+   "type": "case",
+   "stage": "customers",
+   "topic": "Vacation rental scaling with OwnerRez",
+   "search": "vacation rental property management software case study",
+   "why": "Showcases customer success scaling 50 properties, builds trust with prospective users."
+  },
+  {
+   "site": "OwnerRez",
+   "url": "https://www.ownerrez.com/blog/integration-with-localbird",
+   "title": "Integration With Localbird",
+   "date": "2026-10-26T13:13:06+00:00",
+   "kind": "new",
+   "published": null,
+   "first_seen": "2026-10-26T13:13:06+00:00",
+   "type": "news",
+   "stage": "customers",
+   "topic": "Localbird concierge integration",
+   "search": "Localbird integration OwnerRez",
+   "why": "Announces new integration to existing users, increases property manager value through guest services."
+  },
+  {
+   "site": "OwnerRez",
+   "url": "https://www.ownerrez.com/blog/airbnbs-policy-changes-booking-holdings-ai-travel-agent-and-florida-str-updates",
+   "title": "Airbnb’s Policy Changes, Booking Holdings’ AI Travel Agent, and Florid...",
+   "date": "2026-10-26T13:13:06+00:00",
+   "kind": "new",
+   "published": null,
+   "first_seen": "2026-10-26T13:13:06+00:00",
+   "type": "news",
+   "stage": "customers",
+   "topic": "Airbnb policy changes industry updates",
+   "search": "Airbnb policy changes 2024",
+   "why": "Keeps existing users informed on platform changes affecting their business operations."
+  },
+  {
+   "site": "OwnerRez",
+   "url": "https://www.ownerrez.com/podcast/episode/the-power-of-balance",
+   "title": "The Power of Balance - OwnerRez",
+   "date": "2026-10-26T13:13:06+00:00",
+   "kind": "new",
+   "published": null,
+   "first_seen": "2026-10-26T13:13:06+00:00",
+   "type": "opinion",
+   "stage": "customers",
+   "topic": "balancing product features and systems",
+   "search": "vacation rental management podcast",
+   "why": "Builds brand authority and keeps existing customers engaged with company leadership insights."
+  },
+  {
+   "site": "Uplisting",
+   "url": "https://www.uplisting.io/property-management-software/task-management-software-for-strs",
+   "title": "Task Management Software for STRs | Uplisting Crew",
+   "date": "2026-10-26T13:13:06+00:00",
+   "kind": "new",
+   "published": null,
+   "first_seen": "2026-10-26T13:13:06+00:00",
+   "type": "landing",
+   "stage": "comparing",
+   "topic": "Task management for short-term rentals",
+   "search": "task management software for STRs",
+   "why": "Showcases task management capabilities to help property managers evaluate Uplisting's features."
+  },
+  {
+   "site": "Uplisting",
+   "url": "https://www.uplisting.io/property-management-software/short-term-rental-compliance-software",
+   "title": "Short-Term Rental Compliance Software | Uplisting",
+   "date": "2026-10-26T13:13:06+00:00",
+   "kind": "new",
+   "published": null,
+   "first_seen": "2026-10-26T13:13:06+00:00",
+   "type": "landing",
+   "stage": "buying",
+   "topic": "Short-term rental compliance software",
+   "search": "short-term rental compliance software",
+   "why": "Showcases compliance suite to property managers ready to solve document management."
+  },
+  {
+   "site": "Uplisting",
+   "url": "https://www.uplisting.io/property-management-software/str-deposit-dispute-management",
+   "title": "Short-Term Rental Deposit & Dispute Management | Uplisting",
+   "date": "2026-10-26T13:13:06+00:00",
+   "kind": "new",
+   "published": null,
+   "first_seen": "2026-10-26T13:13:06+00:00",
+   "type": "landing",
+   "stage": "buying",
+   "topic": "STR deposit and dispute management",
+   "search": "short-term rental deposit dispute management",
+   "why": "Showcases key feature to convince property managers to choose Uplisting over competitors."
+  },
   {
    "site": "Lodgify",
    "url": "https://www.lodgify.com/el/",
@@ -407,20 +895,6 @@
   },
   {
    "site": "Lodgify",
-   "url": "https://www.lodgify.com/vacation-rental-channel-manager/",
-   "title": "Vacation Rental Channel Manager | Sync All Your Calendars",
-   "date": "2026-10-16T14:13:38+00:00",
-   "kind": "unknown",
-   "published": null,
-   "first_seen": "2026-10-19T08:25:30+00:00",
-   "type": "landing",
-   "stage": "buying",
-   "topic": "Vacation rental channel manager",
-   "search": "vacation rental channel manager",
-   "why": "Targets property managers seeking to sync calendars across multiple listing platforms."
-  },
-  {
-   "site": "Lodgify",
    "url": "https://www.lodgify.com/host-tools/",
    "title": "Vacation Rental Tools for Hosts & Property Managers | Lodgify",
    "date": "2026-10-15T18:33:57+00:00",
@@ -432,34 +906,6 @@
    "topic": "Free vacation rental management tools",
    "search": "free vacation rental calculator tools",
    "why": "Attracts hosts researching rental management via free tools, builds trust before selling PMS."
-  },
-  {
-   "site": "Lodgify",
-   "url": "https://www.lodgify.com/airbnb-management-software/",
-   "title": "Airbnb Management Software | Lodgify",
-   "date": "2026-10-15T13:03:38+00:00",
-   "kind": "unknown",
-   "published": null,
-   "first_seen": "2026-10-19T08:25:30+00:00",
-   "type": "landing",
-   "stage": "buying",
-   "topic": "Airbnb management software automation",
-   "search": "airbnb management software",
-   "why": "Targets Airbnb hosts ready to adopt a property management tool with automation features."
-  },
-  {
-   "site": "Lodgify",
-   "url": "https://www.lodgify.com/task-management/",
-   "title": "Task Management for Vacation Rentals | Lodgify",
-   "date": "2026-10-15T11:19:13+00:00",
-   "kind": "unknown",
-   "published": null,
-   "first_seen": "2026-10-19T08:25:30+00:00",
-   "type": "landing",
-   "stage": "buying",
-   "topic": "Task management for vacation rentals",
-   "search": "task management vacation rental software",
-   "why": "Converts prospects exploring Lodgify's task management capabilities into free trial signups."
   },
   {
    "site": "Lodgify",
@@ -477,20 +923,6 @@
   },
   {
    "site": "Lodgify",
-   "url": "https://www.lodgify.com/vacation-rental-channel-manager/airbnb/",
-   "title": "Airbnb Channel Manager | Sync Your Calendars, Bookings & More",
-   "date": "2026-10-15T11:18:56+00:00",
-   "kind": "unknown",
-   "published": null,
-   "first_seen": "2026-10-19T08:25:30+00:00",
-   "type": "landing",
-   "stage": "buying",
-   "topic": "Airbnb channel manager calendar sync",
-   "search": "airbnb channel manager",
-   "why": "Converts Airbnb hosts ready to automate calendar and booking management across multiple platforms."
-  },
-  {
-   "site": "Lodgify",
    "url": "https://www.lodgify.com/el/channel-manager/vrbo/",
    "title": "Vrbo Channel Manager | Σύνδεσε τη Vrbo με το Lodgify",
    "date": "2026-10-15T11:18:43+00:00",
@@ -502,20 +934,6 @@
    "topic": "Vrbo channel manager integration",
    "search": "Vrbo channel manager Lodgify",
    "why": "Captures hosts seeking to automate Vrbo bookings and expand to Expedia Group network."
-  },
-  {
-   "site": "Lodgify",
-   "url": "https://www.lodgify.com/vacation-rental-channel-manager/vrbo/",
-   "title": "Vrbo Channel Manager | Sync Calendars & Bookings | Lodgify",
-   "date": "2026-10-15T11:18:43+00:00",
-   "kind": "unknown",
-   "published": null,
-   "first_seen": "2026-10-19T08:25:30+00:00",
-   "type": "landing",
-   "stage": "buying",
-   "topic": "Vrbo channel manager sync calendars",
-   "search": "vrbo channel manager sync calendars",
-   "why": "Targets hosts comparing Vrbo integration solutions to streamline multi-platform bookings."
   },
   {
    "site": "Lodgify",
@@ -533,62 +951,6 @@
   },
   {
    "site": "Lodgify",
-   "url": "https://www.lodgify.com/vacation-rental-channel-manager/booking/",
-   "title": "Booking.com Channel Manager | Sync Calendars & Rates | Lodgify",
-   "date": "2026-10-15T11:18:43+00:00",
-   "kind": "unknown",
-   "published": null,
-   "first_seen": "2026-10-19T08:25:30+00:00",
-   "type": "landing",
-   "stage": "buying",
-   "topic": "Booking.com channel manager",
-   "search": "Booking.com channel manager sync calendars",
-   "why": "Targets hosts ready to connect Booking.com with Lodgify for automated syncing."
-  },
-  {
-   "site": "Lodgify",
-   "url": "https://www.lodgify.com/guest-management/",
-   "title": "Vacation Rental Guest Management | Lodgify",
-   "date": "2026-10-15T11:07:45+00:00",
-   "kind": "unknown",
-   "published": null,
-   "first_seen": "2026-10-19T08:25:30+00:00",
-   "type": "landing",
-   "stage": "buying",
-   "topic": "Vacation rental guest management",
-   "search": "vacation rental guest management software",
-   "why": "Showcases guest communication features to convert booking owners into paying customers."
-  },
-  {
-   "site": "Lodgify",
-   "url": "https://www.lodgify.com/automation-tools/",
-   "title": "Automation Tools for Vacation Rentals | Lodgify",
-   "date": "2026-10-15T11:07:33+00:00",
-   "kind": "unknown",
-   "published": null,
-   "first_seen": "2026-10-19T08:25:30+00:00",
-   "type": "landing",
-   "stage": "buying",
-   "topic": "Vacation rental automation tools",
-   "search": "automation tools vacation rentals",
-   "why": "Showcases key automation features to convert property managers evaluating workflow solutions."
-  },
-  {
-   "site": "Lodgify",
-   "url": "https://www.lodgify.com/booking-management-software/",
-   "title": "Booking.com Management Software | Lodgify",
-   "date": "2026-10-15T11:07:20+00:00",
-   "kind": "unknown",
-   "published": null,
-   "first_seen": "2026-10-19T08:25:30+00:00",
-   "type": "landing",
-   "stage": "buying",
-   "topic": "Booking.com management software",
-   "search": "Booking.com management software for hosts",
-   "why": "Converts vacation rental hosts managing Booking.com listings seeking dedicated management solution."
-  },
-  {
-   "site": "Lodgify",
    "url": "https://www.lodgify.com/el/all-features/",
    "title": "Λειτουργίες Διαχείρισης Καταλυμάτων | Lodgify",
    "date": "2026-10-15T11:07:08+00:00",
@@ -600,34 +962,6 @@
    "topic": "Vacation rental property management features",
    "search": "vacation rental management software features",
    "why": "Showcases all product capabilities to educate prospects on platform value and automation benefits."
-  },
-  {
-   "site": "Lodgify",
-   "url": "https://www.lodgify.com/switching-software/",
-   "title": "Switch Vacation Rental Software to Lodgify | Easy Migration",
-   "date": "2026-10-15T11:07:08+00:00",
-   "kind": "unknown",
-   "published": null,
-   "first_seen": "2026-10-19T08:25:30+00:00",
-   "type": "landing",
-   "stage": "buying",
-   "topic": "Switch vacation rental software to Lodgify",
-   "search": "switch vacation rental software",
-   "why": "Converts users actively switching from competitor platforms with migration support."
-  },
-  {
-   "site": "Lodgify",
-   "url": "https://www.lodgify.com/faqs/",
-   "title": "Frequently Asked Questions | Lodgify",
-   "date": "2026-10-15T11:05:03+00:00",
-   "kind": "unknown",
-   "published": null,
-   "first_seen": "2026-10-19T08:25:30+00:00",
-   "type": "howto",
-   "stage": "learning",
-   "topic": "Vacation rental software FAQ answers",
-   "search": "how much does Lodgify cost",
-   "why": "Removes friction for prospects evaluating Lodgify by answering common concerns upfront."
   },
   {
    "site": "Lodgify",
@@ -686,20 +1020,6 @@
    "why": "Converts vacation rental hosts ready to implement direct booking software without OTA commissions."
   },
   {
-   "site": "Lodgify",
-   "url": "https://www.lodgify.com/payment-processing/",
-   "title": "Vacation Rental Payment Processing | Lodgify",
-   "date": "2026-10-15T11:01:29+00:00",
-   "kind": "unknown",
-   "published": null,
-   "first_seen": "2026-10-19T08:25:30+00:00",
-   "type": "landing",
-   "stage": "buying",
-   "topic": "Vacation rental payment processing",
-   "search": "vacation rental payment processing software",
-   "why": "Converts prospects into customers by showcasing payment features and direct booking benefits."
-  },
-  {
    "site": "Hostaway",
    "url": "https://www.hostaway.com/blog/booking-com-guest-phone-numbers/",
    "title": "Booking.com Guest Phone Numbers: What Hosts Need to Know",
@@ -712,20 +1032,6 @@
    "topic": "Booking.com phone numbers API change",
    "search": "Booking.com guest phone numbers missing",
    "why": "Helps existing users adapt to Booking.com's phone number API removal and avoid operational breakdowns."
-  },
-  {
-   "site": "Lodgify",
-   "url": "https://www.lodgify.com/airbnb-hosts/",
-   "title": "Property Management Software for Airbnb Hosts | Lodgify",
-   "date": "2026-10-14T12:26:54+00:00",
-   "kind": "unknown",
-   "published": null,
-   "first_seen": "2026-10-19T08:25:30+00:00",
-   "type": "landing",
-   "stage": "buying",
-   "topic": "Airbnb property management software",
-   "search": "property management software for Airbnb hosts",
-   "why": "Converts Airbnb hosts ready to adopt a channel manager and booking automation tool."
   },
   {
    "site": "Lodgify",
@@ -826,6 +1132,146 @@
    "why": "Catches buyers comparing two competitors and positions Lodgify as better alternative."
   },
   {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/comparisons/hostaway-vs-guesty/",
+   "title": "Hostaway vs. Guesty: How Do They Compare?",
+   "date": "2026-10-13T16:07:59+00:00",
+   "kind": "unknown",
+   "published": null,
+   "first_seen": "2026-10-19T08:25:30+00:00",
+   "type": "compare",
+   "stage": "buying",
+   "topic": "Hostaway vs Guesty comparison",
+   "search": "hostaway vs guesty",
+   "why": "Positions Lodgify as simpler alternative to complex competitors, captures buying-stage searches."
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/comparisons/hostfully-vs-guesty/",
+   "title": "Hostfully vs. Guesty: How Do They Compare?",
+   "date": "2026-10-13T16:07:59+00:00",
+   "kind": "unknown",
+   "published": null,
+   "first_seen": "2026-10-19T08:25:30+00:00",
+   "type": "compare",
+   "stage": "buying",
+   "topic": "Hostfully vs Guesty comparison",
+   "search": "Hostfully vs Guesty",
+   "why": "Targets buyers comparing competing platforms, positions Lodgify as transparent alternative."
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/comparisons/lodgify-vs-smoobu/",
+   "title": "Lodgify vs. Smoobu: Why Our Customers Choose Lodgify",
+   "date": "2026-10-13T16:07:59+00:00",
+   "kind": "unknown",
+   "published": null,
+   "first_seen": "2026-10-19T08:25:30+00:00",
+   "type": "compare",
+   "stage": "buying",
+   "topic": "Lodgify vs Smoobu vacation rental software",
+   "search": "Lodgify vs Smoobu comparison",
+   "why": "Converts prospects comparing Lodgify with a direct competitor by showcasing pricing and feature advantages."
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/comparisons/lodgify-vs-hospitable/",
+   "title": "Lodgify vs. Hospitable: Why Our Customers Choose Lodgify",
+   "date": "2026-10-13T16:07:59+00:00",
+   "kind": "unknown",
+   "published": null,
+   "first_seen": "2026-10-19T08:25:30+00:00",
+   "type": "compare",
+   "stage": "buying",
+   "topic": "Lodgify vs. Hospitable vacation rental software",
+   "search": "Lodgify vs Hospitable comparison",
+   "why": "Converts prospects comparing Lodgify with direct competitor during buying decision."
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/comparisons/lodgify-vs-hostaway/",
+   "title": "Lodgify vs. Hostaway: Why Our Customers Choose Lodgify",
+   "date": "2026-10-13T16:07:59+00:00",
+   "kind": "unknown",
+   "published": null,
+   "first_seen": "2026-10-19T08:25:30+00:00",
+   "type": "compare",
+   "stage": "buying",
+   "topic": "Lodgify vs Hostaway comparison",
+   "search": "Lodgify vs Hostaway",
+   "why": "Captures hosts comparing them with a direct competitor before purchasing."
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/comparisons/lodgify-vs-hostfully/",
+   "title": "Lodgify vs. Hostfully: Why Our Customers Choose Lodgify",
+   "date": "2026-10-13T16:07:59+00:00",
+   "kind": "unknown",
+   "published": null,
+   "first_seen": "2026-10-19T08:25:30+00:00",
+   "type": "compare",
+   "stage": "buying",
+   "topic": "Lodgify vs Hostfully comparison",
+   "search": "Lodgify vs Hostfully",
+   "why": "Catches buyers comparing Lodgify against Hostfully during vendor evaluation."
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/comparisons/lodgify-vs-ownerrez/",
+   "title": "Lodgify vs. OwnerRez: Why Our Customers Choose Lodgify",
+   "date": "2026-10-13T16:07:59+00:00",
+   "kind": "unknown",
+   "published": null,
+   "first_seen": "2026-10-19T08:25:30+00:00",
+   "type": "compare",
+   "stage": "buying",
+   "topic": "Lodgify vs OwnerRez comparison",
+   "search": "Lodgify vs OwnerRez",
+   "why": "Positions Lodgify favorably against OwnerRez to convert comparing buyers."
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/comparisons/lodgify-vs-uplisting/",
+   "title": "Lodgify vs. Uplisting: Why Our Customers Choose Lodgify",
+   "date": "2026-10-13T16:07:59+00:00",
+   "kind": "unknown",
+   "published": null,
+   "first_seen": "2026-10-19T08:25:30+00:00",
+   "type": "compare",
+   "stage": "buying",
+   "topic": "Lodgify vs Uplisting comparison",
+   "search": "Lodgify vs Uplisting vacation rental software",
+   "why": "Catches buyers weighing Lodgify against a direct competitor at decision stage."
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/comparisons/smoobu-alternatives/",
+   "title": "The 5 Best Smoobu Alternatives to Try in 2026",
+   "date": "2026-10-13T16:07:59+00:00",
+   "kind": "unknown",
+   "published": null,
+   "first_seen": "2026-10-19T08:25:30+00:00",
+   "type": "compare",
+   "stage": "buying",
+   "topic": "Smoobu alternatives rental software",
+   "search": "best Smoobu alternatives 2026",
+   "why": "Intercepts Smoobu users researching competitive options and switching solutions."
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/comparisons/lodgify-vs-supercontrol/",
+   "title": "Lodgify vs. SuperControl: Why Our Customers Choose Lodgify",
+   "date": "2026-10-13T14:39:28+00:00",
+   "kind": "unknown",
+   "published": null,
+   "first_seen": "2026-10-19T08:25:30+00:00",
+   "type": "compare",
+   "stage": "buying",
+   "topic": "Lodgify vs. SuperControl comparison",
+   "search": "Lodgify vs SuperControl",
+   "why": "Captures buyers actively comparing Lodgify with a competitor using direct comparison messaging."
+  },
+  {
    "site": "Uplisting",
    "url": "https://www.uplisting.io/property-management-software/channel-manager",
    "title": "Channel Manager Software | Uplisting",
@@ -838,6 +1284,258 @@
    "topic": "Channel manager for vacation rentals",
    "search": "best channel manager vacation rentals",
    "why": "Showcases core product benefits to convince property managers to choose their channel manager solution."
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/ai-cohost/",
+   "title": "AI Co-Host for Vacation Rental Hosts | Lodgify",
+   "date": "2026-10-12T08:34:54+00:00",
+   "kind": "unknown",
+   "published": null,
+   "first_seen": "2026-10-19T08:25:30+00:00",
+   "type": "landing",
+   "stage": "buying",
+   "topic": "AI Co-Host for vacation rental management",
+   "search": "AI assistant vacation rental management",
+   "why": "Showcases new AI feature to convert independent hosts into product users."
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/ai/",
+   "title": "AI Tools for Vacation Rental Hosts | Lodgify",
+   "date": "2026-10-12T08:34:54+00:00",
+   "kind": "unknown",
+   "published": null,
+   "first_seen": "2026-10-19T08:25:30+00:00",
+   "type": "landing",
+   "stage": "learning",
+   "topic": "AI tools for vacation rental hosting",
+   "search": "AI tools for vacation rental hosts",
+   "why": "Educates hosts on new AI capabilities while driving adoption of Lodgify's AI-powered features."
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/reporting-tools/",
+   "title": "Reporting Tools for Vacation Rentals | Lodgify",
+   "date": "2026-10-12T08:34:53+00:00",
+   "kind": "unknown",
+   "published": null,
+   "first_seen": "2026-10-19T08:25:30+00:00",
+   "type": "landing",
+   "stage": "comparing",
+   "topic": "Vacation rental reporting tools",
+   "search": "vacation rental reporting software",
+   "why": "Highlights key reporting features to help prospects evaluate Lodgify against competitor PMS platforms."
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/el/comparisons/",
+   "title": "Σύγκριση λογισμικού για ενοικιάσεις διακοπών",
+   "date": "2026-10-12T08:34:53+00:00",
+   "kind": "unknown",
+   "published": null,
+   "first_seen": "2026-10-19T08:25:30+00:00",
+   "type": "compare",
+   "stage": "comparing",
+   "topic": "Vacation rental software comparison",
+   "search": "best vacation rental software alternatives",
+   "why": "Targets renters comparing Lodgify with competitor platforms and alternatives."
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/comparisons/",
+   "title": "Compare Vacation Rental Software Options",
+   "date": "2026-10-12T08:34:53+00:00",
+   "kind": "unknown",
+   "published": null,
+   "first_seen": "2026-10-19T08:25:30+00:00",
+   "type": "compare",
+   "stage": "buying",
+   "topic": "vacation rental software comparison",
+   "search": "best vacation rental management software",
+   "why": "Targets buyers comparing rental software; showcases Lodgify's competitive advantages against rivals."
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/el/integrations/",
+   "title": "Ενσωματώσεις Lodgify | Συνδέστε τα Εργαλεία σας",
+   "date": "2026-10-12T08:34:53+00:00",
+   "kind": "unknown",
+   "published": null,
+   "first_seen": "2026-10-19T08:25:30+00:00",
+   "type": "landing",
+   "stage": "comparing",
+   "topic": "Lodgify integrations and tool connections",
+   "search": "vacation rental management software integrations",
+   "why": "Shows ecosystem strength to prospects evaluating Lodgify versus competitors."
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/property-managers/",
+   "title": "Property Management Software Designed for Managers | Lodgify",
+   "date": "2026-10-12T08:34:53+00:00",
+   "kind": "unknown",
+   "published": null,
+   "first_seen": "2026-10-19T08:25:30+00:00",
+   "type": "landing",
+   "stage": "comparing",
+   "topic": "Property management software for rental managers",
+   "search": "property management software for vacation rentals",
+   "why": "Targets property managers evaluating PMS solutions to centralize operations and automate workflows."
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/el/the-new-lodgify/",
+   "title": "Το Νέο Lodgify",
+   "date": "2026-10-12T08:34:53+00:00",
+   "kind": "unknown",
+   "published": null,
+   "first_seen": "2026-10-19T08:25:30+00:00",
+   "type": "news",
+   "stage": "customers",
+   "topic": "Lodgify rebrand and new product features",
+   "search": "new Lodgify rebrand AI features",
+   "why": "Announces rebrand, new AI Co-Host, and product updates to existing users."
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/the-new-lodgify/",
+   "title": "The New Lodgify",
+   "date": "2026-10-12T08:34:53+00:00",
+   "kind": "unknown",
+   "published": null,
+   "first_seen": "2026-10-19T08:25:30+00:00",
+   "type": "news",
+   "stage": "customers",
+   "topic": "Lodgify product rebrand redesign",
+   "search": "Lodgify new features AI co-host",
+   "why": "Announces major product rebrand and AI features to engaged existing customers."
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/el/booking-system/wordpress/",
+   "title": "Lodgify WordPress Plugin | Κρατήσεις στο WordPress Site Σου",
+   "date": "2026-10-12T08:34:52+00:00",
+   "kind": "unknown",
+   "published": null,
+   "first_seen": "2026-10-19T08:25:30+00:00",
+   "type": "landing",
+   "stage": "buying",
+   "topic": "WordPress booking plugin rental management",
+   "search": "WordPress vacation rental booking plugin",
+   "why": "Converts WordPress site owners into direct booking customers through embedded plugin."
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/vacation-rental-booking-system/wordpress/",
+   "title": "WordPress Vacation Rental Plugin | Lodgify",
+   "date": "2026-10-12T08:34:52+00:00",
+   "kind": "unknown",
+   "published": null,
+   "first_seen": "2026-10-19T08:25:30+00:00",
+   "type": "landing",
+   "stage": "buying",
+   "topic": "WordPress vacation rental booking plugin",
+   "search": "WordPress vacation rental plugin direct bookings",
+   "why": "Showcases how-to setup and benefits to convert WordPress users into direct booking customers."
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/el/booking-system/squarespace/",
+   "title": "Squarespace Booking Widget για Τουριστικά Καταλύματα | Lodgify",
+   "date": "2026-10-12T08:34:52+00:00",
+   "kind": "unknown",
+   "published": null,
+   "first_seen": "2026-10-19T08:25:30+00:00",
+   "type": "landing",
+   "stage": "buying",
+   "topic": "Squarespace booking widget integration",
+   "search": "Squarespace booking widget rental management",
+   "why": "Converts Squarespace site owners into direct booking customers by solving their payment collection gap."
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/vacation-rental-booking-system/squarespace/",
+   "title": "Squarespace Vacation Rental Booking Widget | Lodgify",
+   "date": "2026-10-12T08:34:52+00:00",
+   "kind": "unknown",
+   "published": null,
+   "first_seen": "2026-10-19T08:25:30+00:00",
+   "type": "landing",
+   "stage": "buying",
+   "topic": "Squarespace vacation rental booking widget",
+   "search": "Squarespace vacation rental booking widget",
+   "why": "Converts Squarespace users into direct bookers by showing easy plugin integration and booking functionality."
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/el/booking-system/wix/",
+   "title": "Wix Booking System για Τουριστικά Καταλύματα | Lodgify",
+   "date": "2026-10-12T08:34:52+00:00",
+   "kind": "unknown",
+   "published": null,
+   "first_seen": "2026-10-19T08:25:30+00:00",
+   "type": "landing",
+   "stage": "buying",
+   "topic": "Wix booking system integration",
+   "search": "Wix booking system for rentals",
+   "why": "Converts Wix users into customers by embedding booking widget without platform switching."
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/vacation-rental-booking-system/wix/",
+   "title": "Wix Booking System for Vacation Rentals | Lodgify",
+   "date": "2026-10-12T08:34:52+00:00",
+   "kind": "unknown",
+   "published": null,
+   "first_seen": "2026-10-19T08:25:30+00:00",
+   "type": "landing",
+   "stage": "buying",
+   "topic": "Wix booking system for vacation rentals",
+   "search": "Wix booking system vacation rentals",
+   "why": "Converts Wix users ready to add direct booking capability without rebuilding their site."
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/vacation-rental-booking-system/webflow/",
+   "title": "Webflow Booking System for Vacation Rentals | Lodgify",
+   "date": "2026-10-12T08:34:52+00:00",
+   "kind": "unknown",
+   "published": null,
+   "first_seen": "2026-10-19T08:25:30+00:00",
+   "type": "landing",
+   "stage": "buying",
+   "topic": "Webflow booking system for rentals",
+   "search": "Webflow booking system vacation rentals",
+   "why": "Targets Webflow users ready to add direct booking capability to their rental sites."
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/vacation-rental-booking-system/weebly/",
+   "title": "Weebly Booking Widget for Vacation Rentals | Lodgify",
+   "date": "2026-10-12T08:34:52+00:00",
+   "kind": "unknown",
+   "published": null,
+   "first_seen": "2026-10-19T08:25:30+00:00",
+   "type": "landing",
+   "stage": "buying",
+   "topic": "Weebly booking widget vacation rentals",
+   "search": "Weebly booking widget vacation rentals",
+   "why": "Converts Weebly users into direct booking customers by showing plugin features and ROI."
+  },
+  {
+   "site": "Lodgify",
+   "url": "https://www.lodgify.com/el/booking-system/drupal/",
+   "title": "Σύστημα Κρατήσεων Drupal για Καταλύματα | Lodgify",
+   "date": "2026-10-12T08:34:52+00:00",
+   "kind": "unknown",
+   "published": null,
+   "first_seen": "2026-10-19T08:25:30+00:00",
+   "type": "landing",
+   "stage": "buying",
+   "topic": "Drupal booking system for vacation rentals",
+   "search": "Drupal booking system vacation rentals",
+   "why": "Targets Drupal site owners ready to add direct booking without rebuilding their site."
   },
   {
    "site": "Hostaway",
@@ -1292,7 +1990,7 @@
    "url": "https://www.hostaway.com/blog/airbnb-vs-expedia/",
    "title": "Airbnb vs Expedia: Which Platform Is Better 2026 | Hostaway",
    "date": "2026-09-07T06:52:18+00:00",
-   "kind": "new",
+   "kind": "unknown",
    "published": "2026-09-07T06:52:18+00:00",
    "first_seen": "2026-10-19T08:25:30+00:00",
    "type": "compare",
@@ -1384,48 +2082,6 @@
    "topic": "AI-ready PMS evaluation criteria",
    "search": "what to look for in AI PMS software",
    "why": "Helps buyers evaluate PMS vendors objectively and avoid AI washing marketing claims."
-  },
-  {
-   "site": "Hostaway",
-   "url": "https://www.hostaway.com/blog/sync-prices-on-vrbo-and-airbnb/",
-   "title": "Guide to Sync prices & availability on VRBO & Airbnb",
-   "date": "2026-08-26T07:28:45+00:00",
-   "kind": "updated",
-   "published": "2023-02-21T17:26:12+00:00",
-   "first_seen": "2026-10-19T08:25:30+00:00",
-   "type": "howto",
-   "stage": "learning",
-   "topic": "Sync prices availability VRBO Airbnb",
-   "search": "how to sync prices availability VRBO Airbnb",
-   "why": "Educates property managers on calendar syncing problem, positions Hostaway channel manager solution."
-  },
-  {
-   "site": "Hostaway",
-   "url": "https://www.hostaway.com/blog/how-to-avoid-double-bookings-on-airbnb-and-vrbo/",
-   "title": "How to Avoid Double Bookings on Airbnb and Vrbo | Hostaway",
-   "date": "2026-08-25T11:52:15+00:00",
-   "kind": "updated",
-   "published": "2026-05-11T11:28:32+00:00",
-   "first_seen": "2026-10-19T08:25:30+00:00",
-   "type": "howto",
-   "stage": "learning",
-   "topic": "Avoid double bookings Airbnb Vrbo",
-   "search": "how to avoid double bookings Airbnb Vrbo",
-   "why": "Educates property managers on a pain point while positioning their channel manager as the solution."
-  },
-  {
-   "site": "Hostaway",
-   "url": "https://www.hostaway.com/blog/airbnb-double-booking-policy/",
-   "title": "Airbnb Double Booking Policy: A Host Guide | Hostaway",
-   "date": "2026-08-24T10:25:39+00:00",
-   "kind": "updated",
-   "published": "2026-06-18T11:15:41+00:00",
-   "first_seen": "2026-10-19T08:25:30+00:00",
-   "type": "howto",
-   "stage": "learning",
-   "topic": "Airbnb double booking policy",
-   "search": "Airbnb double booking policy",
-   "why": "Educates hosts on avoiding double bookings while positioning Hostaway's real-time sync as superior to iCal."
   }
  ],
  "history": [
@@ -1462,6 +2118,42 @@
      "updated": 0,
      "removed": 0,
      "pages": 415
+    }
+   }
+  },
+  {
+   "week": "2026-W44",
+   "date": "2026-10-26T13:13:06+00:00",
+   "sites": {
+    "Hostaway": {
+     "new": 5,
+     "updated": 3,
+     "removed": 0,
+     "pages": 1331
+    },
+    "Hospitable": {
+     "new": 6,
+     "updated": 0,
+     "removed": 0,
+     "pages": 867
+    },
+    "OwnerRez": {
+     "new": 7,
+     "updated": 0,
+     "removed": 0,
+     "pages": 1182
+    },
+    "Lodgify": {
+     "new": 0,
+     "updated": 17,
+     "removed": 0,
+     "pages": 301
+    },
+    "Uplisting": {
+     "new": 3,
+     "updated": 0,
+     "removed": 0,
+     "pages": 418
     }
    }
   }

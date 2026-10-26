@@ -3,7 +3,7 @@
   "title": "Bottom-of-funnel content tracker",
   "niche": "Vacation rental and short-term rental property management software (channel manager, PMS, direct booking)",
   "you": "Hostaway",
-  "generated": "2026-10-26T04:21:20+00:00",
+  "generated": "2026-10-26T13:18:33+00:00",
   "state_updated": "2026-10-19T08:25:30+00:00",
   "repo": "nico497/Hostaway"
  },
@@ -40,8 +40,8 @@
  "sites": [
   {
    "name": "Hostaway",
-   "tracked": 1596,
-   "considered": 1022,
+   "tracked": 1601,
+   "considered": 1027,
    "own_pricing": "https://www.hostaway.com/pricing/",
    "hubs": [
     "https://www.hostaway.com/case-studies/",
@@ -50,8 +50,8 @@
   },
   {
    "name": "Hospitable",
-   "tracked": 861,
-   "considered": 861,
+   "tracked": 867,
+   "considered": 867,
    "own_pricing": "https://hospitable.com/pricing",
    "hubs": [
     "https://hospitable.com/compare"
@@ -59,8 +59,8 @@
   },
   {
    "name": "OwnerRez",
-   "tracked": 7793,
-   "considered": 1149,
+   "tracked": 7834,
+   "considered": 1155,
    "own_pricing": "https://www.ownerrez.com/pricing",
    "hubs": [
     "https://www.ownerrez.com/blog/reviews"
@@ -79,8 +79,8 @@
   },
   {
    "name": "Uplisting",
-   "tracked": 415,
-   "considered": 411,
+   "tracked": 418,
+   "considered": 414,
    "own_pricing": "https://www.uplisting.io/pricing",
    "hubs": [
     "https://www.uplisting.io/customers"
@@ -108,8 +108,8 @@
   "Beds24"
  ],
  "excluded": {
-  "webinars, glossary, events and category pages": 336,
-  "templated pages": 7037
+  "webinars, glossary, events and category pages": 337,
+  "templated pages": 7071
  },
  "pages": [
   {
@@ -256,6 +256,13 @@
   },
   {
    "site": "Hostaway",
+   "url": "https://www.hostaway.com/case-studies/levelup-stays/",
+   "path": "/case-studies/levelup-stays",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hostaway",
    "url": "https://www.hostaway.com/case-studies/liftylife/",
    "path": "/case-studies/liftylife",
    "type": "case",
@@ -356,6 +363,13 @@
    "site": "Hostaway",
    "url": "https://www.hostaway.com/case-studies/stay-with-darby-at-century-21-kootenay-homes/",
    "path": "/case-studies/stay-with-darby-at-century-21-kootenay-homes",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hostaway",
+   "url": "https://www.hostaway.com/case-studies/sunnycoast-homestays/",
+   "path": "/case-studies/sunnycoast-homestays",
    "type": "case",
    "targets": []
   },
