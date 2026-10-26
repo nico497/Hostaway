@@ -33,9 +33,6 @@ you:
 #   exclude_pattern: /docs/     ignore URLs matching this regex
 # ------------------------------------------------------------------
 competitors:
-  - name: Guesty
-    site: https://www.guesty.com
-
   - name: Hospitable
     site: https://hospitable.com
 
@@ -44,9 +41,6 @@ competitors:
 
   - name: Lodgify
     site: https://www.lodgify.com
-
-  - name: Track
-    site: https://trackhs.com
 
   - name: Uplisting
     site: https://www.uplisting.io

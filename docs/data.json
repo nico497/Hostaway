@@ -184,45 +184,6 @@
    "aimed": "STR operators researching tools"
   },
   {
-   "name": "Guesty",
-   "site": "https://www.guesty.com",
-   "you": false,
-   "n": 0,
-   "site_pages": 0,
-   "n_prev": 0,
-   "refreshed": 0,
-   "mix": {
-    "compare": 0,
-    "howto": 0,
-    "list": 0,
-    "research": 0,
-    "case": 0,
-    "opinion": 0,
-    "news": 0,
-    "landing": 0
-   },
-   "stages": {
-    "learning": 0,
-    "comparing": 0,
-    "buying": 0,
-    "customers": 0
-   },
-   "topics": [],
-   "unclassified": 0,
-   "removed": 0,
-   "removed_titles": [],
-   "new": 0,
-   "updated": 0,
-   "bulk": [],
-   "programmatic": [],
-   "ok": false,
-   "error": "no sitemap or feed found. Add a sitemap: or feed: line for this site in config.yaml",
-   "method": null,
-   "url": "https://www.guesty.com",
-   "play": "",
-   "aimed": ""
-  },
-  {
    "name": "Hospitable",
    "site": "https://hospitable.com",
    "you": false,
@@ -371,45 +332,6 @@
    "new_urls": 0,
    "play": "Promotes a free livestream event, the Independent Host Summit 2026.",
    "aimed": "Independent hosts"
-  },
-  {
-   "name": "Track",
-   "site": "https://trackhs.com",
-   "you": false,
-   "n": 0,
-   "site_pages": 0,
-   "n_prev": 0,
-   "refreshed": 0,
-   "mix": {
-    "compare": 0,
-    "howto": 0,
-    "list": 0,
-    "research": 0,
-    "case": 0,
-    "opinion": 0,
-    "news": 0,
-    "landing": 0
-   },
-   "stages": {
-    "learning": 0,
-    "comparing": 0,
-    "buying": 0,
-    "customers": 0
-   },
-   "topics": [],
-   "unclassified": 0,
-   "removed": 0,
-   "removed_titles": [],
-   "new": 0,
-   "updated": 0,
-   "bulk": [],
-   "programmatic": [],
-   "ok": false,
-   "error": "no sitemap or feed found. Add a sitemap: or feed: line for this site in config.yaml",
-   "method": null,
-   "url": "https://trackhs.com",
-   "play": "",
-   "aimed": ""
   },
   {
    "name": "Uplisting",
@@ -1517,12 +1439,6 @@
      "removed": 0,
      "pages": 1326
     },
-    "Guesty": {
-     "new": 0,
-     "updated": 0,
-     "removed": 0,
-     "pages": 0
-    },
     "Hospitable": {
      "new": 0,
      "updated": 0,
@@ -1540,12 +1456,6 @@
      "updated": 0,
      "removed": 0,
      "pages": 301
-    },
-    "Track": {
-     "new": 0,
-     "updated": 0,
-     "removed": 0,
-     "pages": 0
     },
     "Uplisting": {
      "new": 0,
