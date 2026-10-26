@@ -3,7 +3,7 @@
   "title": "Bottom-of-funnel content tracker",
   "niche": "Vacation rental and short-term rental property management software (channel manager, PMS, direct booking)",
   "you": "Hostaway",
-  "generated": "2026-10-19T08:30:15+00:00",
+  "generated": "2026-10-26T04:21:20+00:00",
   "state_updated": "2026-10-19T08:25:30+00:00",
   "repo": "nico497/Hostaway"
  },
@@ -49,13 +49,6 @@
    ]
   },
   {
-   "name": "Guesty",
-   "tracked": 0,
-   "considered": 0,
-   "own_pricing": null,
-   "hubs": []
-  },
-  {
    "name": "Hospitable",
    "tracked": 861,
    "considered": 861,
@@ -83,13 +76,6 @@
     "https://www.lodgify.com/reviews/",
     "https://www.lodgify.com/encyclopedia/reviews/"
    ]
-  },
-  {
-   "name": "Track",
-   "tracked": 0,
-   "considered": 0,
-   "own_pricing": null,
-   "hubs": []
   },
   {
    "name": "Uplisting",
