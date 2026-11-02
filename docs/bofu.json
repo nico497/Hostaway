@@ -3,7 +3,7 @@
   "title": "Bottom-of-funnel content tracker",
   "niche": "Vacation rental and short-term rental property management software (channel manager, PMS, direct booking)",
   "you": "Hostaway",
-  "generated": "2026-10-26T13:18:33+00:00",
+  "generated": "2026-11-02T16:11:45+00:00",
   "state_updated": "2026-10-19T08:25:30+00:00",
   "repo": "nico497/Hostaway"
  },
@@ -40,8 +40,8 @@
  "sites": [
   {
    "name": "Hostaway",
-   "tracked": 1601,
-   "considered": 1027,
+   "tracked": 1603,
+   "considered": 1029,
    "own_pricing": "https://www.hostaway.com/pricing/",
    "hubs": [
     "https://www.hostaway.com/case-studies/",
@@ -50,8 +50,8 @@
   },
   {
    "name": "Hospitable",
-   "tracked": 867,
-   "considered": 867,
+   "tracked": 869,
+   "considered": 869,
    "own_pricing": "https://hospitable.com/pricing",
    "hubs": [
     "https://hospitable.com/compare"
@@ -59,8 +59,8 @@
   },
   {
    "name": "OwnerRez",
-   "tracked": 7834,
-   "considered": 1155,
+   "tracked": 7863,
+   "considered": 1157,
    "own_pricing": "https://www.ownerrez.com/pricing",
    "hubs": [
     "https://www.ownerrez.com/blog/reviews"
@@ -79,8 +79,8 @@
   },
   {
    "name": "Uplisting",
-   "tracked": 418,
-   "considered": 414,
+   "tracked": 420,
+   "considered": 416,
    "own_pricing": "https://www.uplisting.io/pricing",
    "hubs": [
     "https://www.uplisting.io/customers"
@@ -109,7 +109,7 @@
  ],
  "excluded": {
   "webinars, glossary, events and category pages": 337,
-  "templated pages": 7071
+  "templated pages": 7098
  },
  "pages": [
   {

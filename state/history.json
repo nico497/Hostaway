@@ -71,6 +71,42 @@
      "pages": 418
     }
    }
+  },
+  {
+   "week": "2026-W45",
+   "date": "2026-11-02T16:08:13+00:00",
+   "sites": {
+    "Hostaway": {
+     "new": 2,
+     "updated": 38,
+     "removed": 0,
+     "pages": 1333
+    },
+    "Hospitable": {
+     "new": 2,
+     "updated": 0,
+     "removed": 2,
+     "pages": 867
+    },
+    "OwnerRez": {
+     "new": 2,
+     "updated": 0,
+     "removed": 0,
+     "pages": 1184
+    },
+    "Lodgify": {
+     "new": 24,
+     "updated": 5,
+     "removed": 0,
+     "pages": 301
+    },
+    "Uplisting": {
+     "new": 2,
+     "updated": 0,
+     "removed": 0,
+     "pages": 420
+    }
+   }
   }
  ]
 }
