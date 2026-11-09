@@ -3,7 +3,7 @@
   "title": "Bottom-of-funnel content tracker",
   "niche": "Vacation rental and short-term rental property management software (channel manager, PMS, direct booking)",
   "you": "Hostaway",
-  "generated": "2026-11-02T16:11:45+00:00",
+  "generated": "2026-11-09T16:37:20+00:00",
   "state_updated": "2026-10-19T08:25:30+00:00",
   "repo": "nico497/Hostaway"
  },
@@ -40,8 +40,8 @@
  "sites": [
   {
    "name": "Hostaway",
-   "tracked": 1603,
-   "considered": 1029,
+   "tracked": 1614,
+   "considered": 1040,
    "own_pricing": "https://www.hostaway.com/pricing/",
    "hubs": [
     "https://www.hostaway.com/case-studies/",
@@ -50,8 +50,8 @@
   },
   {
    "name": "Hospitable",
-   "tracked": 869,
-   "considered": 869,
+   "tracked": 873,
+   "considered": 873,
    "own_pricing": "https://hospitable.com/pricing",
    "hubs": [
     "https://hospitable.com/compare"
@@ -59,8 +59,8 @@
   },
   {
    "name": "OwnerRez",
-   "tracked": 7863,
-   "considered": 1157,
+   "tracked": 7896,
+   "considered": 1163,
    "own_pricing": "https://www.ownerrez.com/pricing",
    "hubs": [
     "https://www.ownerrez.com/blog/reviews"
@@ -68,8 +68,8 @@
   },
   {
    "name": "Lodgify",
-   "tracked": 450,
-   "considered": 299,
+   "tracked": 460,
+   "considered": 309,
    "own_pricing": "https://www.lodgify.com/pricing/",
    "hubs": [
     "https://www.lodgify.com/el/reviews/",
@@ -79,8 +79,8 @@
   },
   {
    "name": "Uplisting",
-   "tracked": 420,
-   "considered": 416,
+   "tracked": 426,
+   "considered": 422,
    "own_pricing": "https://www.uplisting.io/pricing",
    "hubs": [
     "https://www.uplisting.io/customers"
@@ -108,8 +108,8 @@
   "Beds24"
  ],
  "excluded": {
-  "webinars, glossary, events and category pages": 337,
-  "templated pages": 7098
+  "webinars, glossary, events and category pages": 339,
+  "templated pages": 7123
  },
  "pages": [
   {
@@ -277,6 +277,13 @@
   },
   {
    "site": "Hostaway",
+   "url": "https://www.hostaway.com/case-studies/medini-homes/",
+   "path": "/case-studies/medini-homes",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hostaway",
    "url": "https://www.hostaway.com/case-studies/midtown-stays/",
    "path": "/case-studies/midtown-stays",
    "type": "case",
@@ -384,6 +391,13 @@
    "site": "Hostaway",
    "url": "https://www.hostaway.com/case-studies/the-flex/",
    "path": "/case-studies/the-flex",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Hostaway",
+   "url": "https://www.hostaway.com/case-studies/the-vantage-home/",
+   "path": "/case-studies/the-vantage-home",
    "type": "case",
    "targets": []
   },
