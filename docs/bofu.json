@@ -3,7 +3,7 @@
   "title": "Bottom-of-funnel content tracker",
   "niche": "Vacation rental and short-term rental property management software (channel manager, PMS, direct booking)",
   "you": "Hostaway",
-  "generated": "2026-11-09T16:37:20+00:00",
+  "generated": "2026-11-16T16:05:38+00:00",
   "state_updated": "2026-10-19T08:25:30+00:00",
   "repo": "nico497/Hostaway"
  },
@@ -40,8 +40,8 @@
  "sites": [
   {
    "name": "Hostaway",
-   "tracked": 1614,
-   "considered": 1040,
+   "tracked": 1622,
+   "considered": 1045,
    "own_pricing": "https://www.hostaway.com/pricing/",
    "hubs": [
     "https://www.hostaway.com/case-studies/",
@@ -50,8 +50,8 @@
   },
   {
    "name": "Hospitable",
-   "tracked": 873,
-   "considered": 873,
+   "tracked": 878,
+   "considered": 878,
    "own_pricing": "https://hospitable.com/pricing",
    "hubs": [
     "https://hospitable.com/compare"
@@ -59,8 +59,8 @@
   },
   {
    "name": "OwnerRez",
-   "tracked": 7896,
-   "considered": 1163,
+   "tracked": 7929,
+   "considered": 1168,
    "own_pricing": "https://www.ownerrez.com/pricing",
    "hubs": [
     "https://www.ownerrez.com/blog/reviews"
@@ -68,8 +68,8 @@
   },
   {
    "name": "Lodgify",
-   "tracked": 460,
-   "considered": 309,
+   "tracked": 471,
+   "considered": 320,
    "own_pricing": "https://www.lodgify.com/pricing/",
    "hubs": [
     "https://www.lodgify.com/el/reviews/",
@@ -79,8 +79,8 @@
   },
   {
    "name": "Uplisting",
-   "tracked": 426,
-   "considered": 422,
+   "tracked": 430,
+   "considered": 424,
    "own_pricing": "https://www.uplisting.io/pricing",
    "hubs": [
     "https://www.uplisting.io/customers"
@@ -108,8 +108,8 @@
   "Beds24"
  ],
  "excluded": {
-  "webinars, glossary, events and category pages": 339,
-  "templated pages": 7123
+  "webinars, glossary, events and category pages": 341,
+  "templated pages": 7154
  },
  "pages": [
   {
